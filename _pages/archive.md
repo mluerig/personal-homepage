@@ -1,8 +1,8 @@
 ---
-title: Archive
-permalink: /archive/
+title: Post archive
+permalink: /posts/
 layout: page
-excerpt: All post.
+excerpt: All posts.
 comments: false
 ---
 
