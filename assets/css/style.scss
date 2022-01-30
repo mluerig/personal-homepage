@@ -22,12 +22,16 @@
     -webkit-user-select: none;
     -webkit-animation: 0.5s ease-in forwards fadein;
     animation: 0.5s ease-in forwards fadein;
-    opacity: 1;
+    opacity: 0;
+	
+  }
+    .author-avatar:hover {
+	opacity: 0.5;
   }
 
   .author-name {
-    font-size: 1.7em;
-    margin-bottom: 2px;
+    font-size: 1.5em;
+    margin-bottom: 1.5px;
   }
 
   .author-bio {
@@ -35,5 +39,17 @@
     opacity: 0.9;
     max-width: 393px;
     line-height: 1.688;
+  }
+}
+
+a {
+  color: inherit;
+  text-decoration-color: $smoke;
+
+
+
+  &:focus {
+    outline: 3px solid rgba(0, 54, 199, 0.6);
+    outline-offset: 2px;
   }
 }

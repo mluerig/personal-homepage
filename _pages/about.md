@@ -1,8 +1,21 @@
 ---
-layout: page
+layout: default
 permalink: /about/
 title: Moritz Lürig
 ---
+
+<div class="author">
+<img class="author-avatar"
+    src="{{ site.author.avatar }}"
+    alt="Moritz Lürig" />
+	
+	  <p style="font-size: 1.7em;font-weight: bold;">Dr. Moritz Lürig</p>
+
+</div>
+  
+  
+
+I am an evolutionary ecologist broadly interested in the forces that shape phenotypic evolution; including species interactions, phenotypic plasticity and developmental effects.
 
 My work here in Sweden is funded for a total of three years by the Swiss National Science Foundation (SNSF) through an Early Postdoc.mobility fellowship and by the European Commission through a Marie Skłodowska-Curie fellowship.
 

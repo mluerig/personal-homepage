@@ -213,23 +213,14 @@ h6 {
 }
 
 // Headings with link
+
+// Link
 h1 > a,
 h2 > a,
 h3 > a,
 h4 > a,
 h5 > a,
 h6 > a {
-  text-decoration: none;
-  border: none;
-
-  &:hover {
-    text-decoration: none;
-    border: none;
-  }
-}
-
-// Link
-a {
   color: inherit;
   text-decoration-color: $smoke;
 
