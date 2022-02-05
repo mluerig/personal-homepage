@@ -4,6 +4,7 @@ layout: compress
 
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
 {% include header.html %}
 
 <body data-theme="{{ site.mode }}" class="notransition">
@@ -27,7 +28,10 @@ layout: compress
     setTimeout(() => body.classList.remove("notransition"), 75);
   </script>
 
-  {% include navbar.html %}
+	<div class="wrapper">
+		{% include navbar.html %}
+	</div>
+
   <div class="wrapper">
     <main aria-label="Content">
       {{ content }}
