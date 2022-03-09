@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /publications/ 
+title: publications
 ---
 
 <style>
@@ -21,35 +22,17 @@ permalink: /publications/
 
 </style>
 
-<div class="box">
-  <div class="item">
+<div class="social-media">
     <a href="https://scholar.google.de/citations?user=G_4Wc0QAAAAJ&hl=de" target="_blank">
-	<img src="/assets/images/thumbs/google_scholar.png">
+	<img src="/assets/images/social_media/google-scholar.png">
 	</a>
-  </div>
-  <div class="item">
-    <a href="https://www.researchgate.net/profile/Moritz_Luerig" target="_blank">
-	<img src="/assets/images/thumbs/researchgate.png">
-	</a>
-  </div>
-  <div class="item">
     <a href="https://orcid.org/0000-0002-8175-6234" target="_blank">
-	<img src="/assets/images/thumbs/orchid.png">
+	<img src="/assets/images/social_media/orcid.png">
 	</a>
-  </div>
-  <div class="item">
-    <a href="https://github.com/mluerig" target="_blank">
-	<img src="/assets/images/thumbs/github.png">
+    <a href="https://www.researchgate.net/profile/Moritz_Luerig" target="_blank">
+	<img src="/assets/images/social_media/research-gate.png">
 	</a>
-  </div>  
 </div>
-
----
-
-You can download a copy of my curriculum vitae **[>>here<<](/assets/mluerig_CV.pdf){:target="_blank"}**
-
-
-# Publications
 
 ## 2021
 <u><strong>Lürig, M.D.</strong></u> (2021). phenopype: a phenotyping pipeline for Python. Methods in Ecology and Evolution. <i>In press</i>.

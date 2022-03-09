@@ -1,8 +1,7 @@
 # Site settings
 title: Moritz Lürig | Personal website# site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  Personal website of Dr. Moritz Lürig. 
 lang: en-US # default lang
 timezone: Europe/Berlin # set your timezone
 # image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,11 +11,10 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Moritz Lürig # author name
-  username: mluerig # general username
-  github: mluerig # github username
-  twitter: mluerig # twitter username
   email: moritz.luerig@gmail.com # email adress
   avatar: /assets/images/moritz_luerig_portrait.jpg # change with your own avatar
+  welcome-text: >-
+   This website is mostly about my science, but I also use it collect techy stuff that I find interesting or useful. Feel free to look around or <a href="mailto:{{ site.author.email | encode_email }}"> drop me a line </a> if you'd like to have a chat.</p>
 
 # URL settings
 url: "https://www.luerig.net" #
@@ -85,6 +83,8 @@ exclude:
 
 # Plugins
 plugins:
+  - jekyll-email-protect
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
+  - jemoji

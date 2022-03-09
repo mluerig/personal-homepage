@@ -3,6 +3,7 @@ layout: compress
 ---
 
 <!DOCTYPE html>
+
 <html lang="{{ page.lang | default: site.lang | default: " en " }}">
 
 {% include header.html %}
@@ -28,15 +29,21 @@ layout: compress
     setTimeout(() => body.classList.remove("notransition"), 75);
   </script>
 
+<<<<<<< HEAD
 	<div class="wrapper">
 		{% include navbar.html %}
 	</div>
 
+=======
+  {% include navbar.html %}
+  
+>>>>>>> 9479f07 (footer / social media / jemoji / editable ind)
   <div class="wrapper">
     <main aria-label="Content">
       {{ content }}
     </main>
     {% include footer.html %}
   </div>
+  
 </body>
 </html>
