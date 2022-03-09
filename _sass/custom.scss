@@ -94,3 +94,25 @@ body .navbar {
 .wrapper main{
 	padding: $spacing-full - 15px $spacing-full;
 }
+
+.social-media{
+  display: flex;
+  justify-content: center;
+  }
+  
+.social-media img{
+	max-height: 100px;
+	  padding: 10px;
+
+}
+  
+.social-media-footer{
+	display: flex;
+	justify-content: center;
+}
+
+.social-media-footer img{
+	max-height: 30px;
+		padding: 5px;
+
+}
