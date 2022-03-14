@@ -4,27 +4,20 @@ permalink: /research/
 title: research
 ---
 
-## interests
-<p style="padding-bottom:0px; text-align: justify"> 
-My research is motivated by the spectacular organismal diversity across the tree of life and aims at understanding how phenotypic variation emerges and how it is maintained in spatially or temporally variable environments. 
-</p>
-<p style="padding-bottom:0px; text-align: justify; padding-top:7px"> 
-Specifically, I am studying how trajectories of phenotypic evolution in natural populations are shaped by selection for combinations of traits (correlational selection) across multiple environmental gradients.
-</p>
-<p style="padding-bottom:0px; text-align: justify; padding-top:7px">
-Moreover, I am investigating how such environmental gradients can lead to alternative developmental trajectories (developmental plasticity), and how they may affect speed and direction of evolutionary change.
-</p>
-<p style="padding-bottom:0px; text-align: center; font-weight: bold;">
-My overarching research goal is to understand both ultimate and proximate causes of phenotypic variation within and across natural populations.
+<p style="padding-bottom:0px; padding-top:24px; text-align: center; font-weight: bold; font-size:125%">
+:point_right: The goal of my science is to understand both ultimate and proximate causes of phenotypic variation within and across natural populations.
 </p>
 
+## interests
+I am interested in patterns and processes that give rise to phenotypic variation in natural populations over ecological timescales. Specifically, I study how phenotypes are shaped by complex selection scenarios, such as selection for combinations of traits (correlational selection) or modularization (phenotypic integration). 
+
+Moreover, I am investigating how variation in the environmental experienced during early life stages can lead to alternative developmental trajectories (developmental plasticity), and how this may affect speed and direction of evolutionary change, for example, by selecting for plastic responses to variation of the environment (adaptive plasticity).
+
 ## methods
-<p style="padding-bottom:0px; text-align: justify; padding-top:7px"> 
-Throughout my career I have used a variety of invertebrate model systems to investigate the causes of variation in morphology, phyisology and behaviour with controlled laboratory experiments, large scale outdoor mesocosm experiments, and field surveys. 
-</p>
-<p style="padding-bottom:0px; text-align: justify"> 
-To uncover the causal links between genotypes, environmental factors, and phenotypes, I am collecting high dimensional phenotypic (phenomic) data in high throughput using computer vision (the automated extraction of meaningful information from digital images). 
-</p>
+
+Throughout my career I have used a variety of  aquatic invertebrate model systems to investigate the causes of variation in morphology, phyisology and behaviour with controlled laboratory experiments, outdoor mesocosm experiments, and field surveys. This includes stone corals (Scleractinia), marine and freshwater amphipods (Amphipoda) and isopods (Isopoda), and, currently, damselflies and dragonflies (Odonata). 
+
+To uncover the causal links between genotypes, environmental factors, and multivariate phenotypes, I am collecting high dimensional phenotypic (phenomic) data in high throughput using computer vision; the automated extraction of meaningful information from digital images. To that end I employ a combination of techniques, ranging from semi-manual signal processeing to deep learning. 
 
 ## projects
 
@@ -34,20 +27,18 @@ To uncover the causal links between genotypes, environmental factors, and phenot
 
 	<div class="container-item">
 		<img src="/assets/images/thumbs/damselfly.jpg" />
-				<h3>Phenomics of sexual conflict in <i>Ischnura elegans</i></h3>
-
-		<p>Investigating correlational selection on colouration and morphology in a female limited sexual polymorphism of the common bluetail damselfly (<i>Ischnura elegans</i>).</p>
+		<h3>Phenomics of sexual conflict in <i>Ischnura elegans</i></h3>
+		<p>Here I am investigating correlational selection on colouration and morphology in a female limited sexual polymorphism of the common bluetail damselfly (<i>Ischnura elegans</i>) in Southern Sweden.</p>
 	</div>
 	
 	<div class="container-item">
 		<img src="/assets/images/thumbs/asellus.jpg" />
 		<h3>Isopod pigmentation: <br> development, plasticity, crypsis </h3>
-
-		<p>In a series of in- and outdoor experiments I explored how selection and diet-driven developmental plasticity affect pigmentation phenotypes in the freshwater isopod <i>Asellus aquaticus</i>.</p>
+		<p>In a series of in- and outdoor experiments I explored how selection and diet-based developmental plasticity affects pigmentation and body size in the freshwater isopod <i>Asellus aquaticus</i>.</p>
 	</div>
 	
 	<div class="container-item">
-		<img src="/assets/images/study_systems/asellus.jpg" />
+		<img src="/assets/images/study_systems/.jpg" />
 		<h3>Isopod pigmentation: developmental plasticity and selection</h3>
 
 		<p>In a series of in- and outdoor experiments I explored how selection and diet-driven developmental plasticity affect pigmentation phenotypes in the freshwater isopod <i>Asellus aquaticus</i>.</p>

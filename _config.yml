@@ -13,8 +13,7 @@ author:
   name: Moritz Lürig # author name
   email: moritz.luerig@gmail.com # email adress
   avatar: /assets/images/moritz_luerig_portrait.jpg # change with your own avatar
-  welcome-text: >-
-   This website is mostly about my science, but I also use it collect techy stuff that I find interesting or useful. Feel free to look around or <a href="mailto:{{ site.author.email | encode_email }}"> drop me a line </a> if you'd like to have a chat.</p>
+
 
 # URL settings
 url: "https://www.luerig.net" #
@@ -33,7 +32,8 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   syntax_highlighter: rouge
-
+  parse_block_html: false
+  
 # Default front matter
 defaults:
   - scope:
