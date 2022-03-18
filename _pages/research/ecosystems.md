@@ -12,7 +12,7 @@ Over the entire experiment, macrophytes had a negative effect on phytoplankton b
 
 <div class="res-center">
 <div class="res-container">
-<img class="res-img" src="/assets/images/sonde_paper1.png">
+<img class="res-img" src="/assets/images/figures/sonde_paper1.png">
 <div class="res-caption">
 Figure 1 - Left: High frequency measurements of chlorophyll-a and Phycocyanin over time: macrophytes increased the mean, but decreased the variance of phytoplankton biomass - a surprising result. Right: Average log response ratios (LRR) for macrophyte presence on mean and CV. Effect sizes were calculated differently for each data type: high frequency (●), metabolism (▲), or DOC point measurements (■) – for details refer to the methods section of our paper.
 </div>
@@ -23,7 +23,7 @@ Aquatic ecosystems worldwide are also strongly affected by an increasing frequen
 
 <div class="res-center">
 <div class="res-container" style="width:500px">
-<img class="res-img" src="/assets/images/sonde_paper2.png">
+<img class="res-img" src="/assets/images/figures/sonde_paper2.png">
 <div class="res-caption">
 Figure 2 - Effect of foundation species on the mean of ecosystem parameters before, during and after nutrient perturbations. The lines indicate the respective average of all four ponds per treatment per hour (mean ± SE), the gray shading indicates the disturbance phases, and the coloured bars underneath the time series indicate whether a treatment was significantly different from the control (one linear model per hour: (orange=Dreissena main effect [D treatment], green=Myriophyllum main effect [M treatment], purple=interactive effect [MD treatment]). The data stem from a seven day long sliding window (168 data points). The black line indicates the predicted additive response based on the sum of the separate macrophyte or mussels treatment with the control subtracted (e.g. (Macrophyte Chl + Dreissena Chl) - Control Chl = predicted additive response). 
 </div>

@@ -11,7 +11,7 @@ In an six month long outdoor mesocosm experiment, we investigated how predator d
 
 <div class="res-center">
 <div class="res-container" style="width:800px">
-<img class="res-img" src="/assets/images/isopods_paper1.png">
+<img class="res-img" src="/assets/images/figures/isopods_paper1.png">
 <div class="res-caption">
 Figure 1 - Left: Macrophyte presence yielded higher pigmentation (size corrected) in isopods than macrophyte-free tanks, independent of fish presence. Each data point represents the average response for one mesocosm and the large dots with error bars are mean ± CI per treatment across all mesocosms with. The solid line indicates the mean starting condition, and the dashed lines show mean and SD of the starting populations, respectively. Mid: rates of increase in pigmentation were higher under high-nutrient diet (dots = weekly average change in pigmentation or body size of individuals across all families [mean ± CI], grey lines = family- level reaction norms). Right: In summary, results from both of our experiments suggests that pigmentaion can be affected by the presence of macrophytes, and by elevated protein content within the diet.
 </div>
@@ -24,7 +24,7 @@ Inspired by the findings of our mesocom experiment, we investigated whether deve
 
 <div class="res-center">
 <div class="res-container">
-<img class="res-img" src="/assets/images/isopods_paper2.png">
+<img class="res-img" src="/assets/images/figures/isopods_paper2.png">
 <div class="res-caption">
 Figure 2 - A) Random sample of isopods taken from beds of Chara tomentosa in Lake Lucerne at Kastanienbaum (measured with a flatbed scanner, brightness adjusted to match images from camera stand; size scale is for panel A-C.). B) Example of an isopod reared under low quality and C) high quality diet (photographed with a camera-stand). The levels of adult isopod pigmentation measured throughout the diet manipulation fall well within the range of isopod pigmentation found in nature (i.e. panel A). 
 </div>

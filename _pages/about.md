@@ -8,11 +8,11 @@ title: about me
 <a href="https://youtu.be/G-mc6OhqQiI?t=14" target="_blank">
 "I like ... people, places, and things".</a></div>
 
-> Postdocs (2019 - 2022)
+> Postdocs (since 2020 )
 
 I am currently based at Lund University in Southern Sweden in **[Erik Svensson's lab](https://portal.research.lu.se/en/organisations/evolution-and-ecology-of-phenotypes-in-nature)**. My work is funded for a total of three and a half years by the Swiss National Science Foundation (SNSF) through an Early Postdoc.mobility fellowship and by the European Commission through a Marie Skłodowska-Curie fellowship. Before coming to Lund I worked as a short term (0.5 year) postdoc in Ole Seehausen's lab at Eawag Kastanienbaum, where I supported investigations of the evolutionary past of Lake Victoria Cichlids.
 
-> PhD (2015 and 2019)
+> PhD (2015 - 2019)
 
 I completed my PhD in Blake Matthews' lab at Eawag Kastanienbaum under co-supervision from Jukka Jokela, funded by ETH Zürich's Center for **[Adaptation to a Changing Environment](https://adaptation.ethz.ch/){:target="_blank"}**. For my thesis, I conducted a series of experiments to explore the role of different types of species interactions within different levels of ecological organization and across a range of ecological contexts. An electronic copy of my thesis can be downloaded **[>>here<<](https://www.dora.lib4ri.ch/eawag/islandora/object/eawag%3A19819){:target="_blank"}**. 
 

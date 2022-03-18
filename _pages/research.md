@@ -8,7 +8,7 @@ title: research
 :point_right: The goal of my science is to understand both ultimate and proximate causes of phenotypic variation within and across natural populations.
 </p>
 
-## interests
+## interests ##
 I am interested in patterns and processes that give rise to phenotypic variation in natural populations over ecological timescales. Specifically, I study how phenotypes are shaped by complex selection scenarios, such as selection for combinations of traits (correlational selection) or modularization (phenotypic integration). 
 
 Moreover, I am investigating how variation in the environmental experienced during early life stages can lead to alternative developmental trajectories (developmental plasticity), and how this may affect speed and direction of evolutionary change, for example, by selecting for plastic responses to variation of the environment (adaptive plasticity).
@@ -25,54 +25,61 @@ To uncover the causal links between genotypes, environmental factors, and multiv
 
 <div class="container-list">
 
-	<div class="container-item">
-		<img src="/assets/images/thumbs/damselfly.jpg" />
-		<h3>Phenomics of sexual conflict in <i>Ischnura elegans</i></h3>
-		<p>Here I am investigating correlational selection on colouration and morphology in a female limited sexual polymorphism of the common bluetail damselfly (<i>Ischnura elegans</i>) in Southern Sweden.</p>
-	</div>
+	<a href="/research/damselflies/">
+		<div class="container-item">
+			<img src="/assets/images/thumbs/damselflies.jpg" />
+			<h3>Phenomics of sexual conflict in <i>Ischnura elegans</i></h3>
+			<p>Here I am investigating correlational selection on colouration and morphology in a female limited sexual polymorphism of the common bluetail damselfly (<i>Ischnura elegans</i>) in Southern Sweden.</p>
+		</div>
+	</a>
 	
-	<div class="container-item">
-		<img src="/assets/images/thumbs/asellus.jpg" />
-		<h3>Isopod pigmentation: <br> development, plasticity, crypsis </h3>
-		<p>In a series of in- and outdoor experiments I explored how selection and diet-based developmental plasticity affects pigmentation and body size in the freshwater isopod <i>Asellus aquaticus</i>.</p>
-	</div>
-	
-	<div class="container-item">
-		<img src="/assets/images/study_systems/.jpg" />
-		<h3>Isopod pigmentation: developmental plasticity and selection</h3>
+	<a href="/research/isopods/">
+		<div class="container-item">
+			<img src="/assets/images/thumbs/isopods.jpg" />
+			<h3>Isopod pigmentation: <br> development, plasticity, crypsis </h3>
+			<p>In a series of in- and outdoor experiments I explored how selection and diet-based developmental plasticity affects pigmentation and body size in the freshwater isopod <i>Asellus aquaticus</i>.</p>
+		</div>
+	</a>
 
-		<p>In a series of in- and outdoor experiments I explored how selection and diet-driven developmental plasticity affect pigmentation phenotypes in the freshwater isopod <i>Asellus aquaticus</i>.</p>
-	</div>
-	
 </div>
 
+<br>
+<br>
 > COMPLETED
 
 <div class="container-list">
 
-	<div class="container-item">
-		<h3>Trophic diversification of Lake Victoria Cichlids</h3>
-		<img src="/assets/images/cichlid_teeth.png" />
-		<p> It took less than 15000 years for several hundred species of haplochromine cichlid species to evolve from a common ancestor within Lake Victoria. I am using computer vision to construct a classifier to map fossil teeth onto teeth from contemporary trophic guilds to investigate the speed and order of their emergence.</p>
-	</div>
 
-	<div class="container-item">
-		<h3>Determinants of temporal variation in aquatic ecosystem</h3>
-		<img src="/assets/images/experiments/ponds1.jpg" />
-		<p> Submerged macrophytes are important foundation species that can influence the structure and functioning of aquatic ecosystems over time and govern the response to perturbation. In a series of large scale outdoor experiments we quantified ecosystem effects of macrophytes using cutting-edge high frequency measurement technology.</p>
-	</div>
-	
-	<div class="container-item">
-		<h3>Seagrass mesograzer microhabitat choice</h3>
-		<img src="/assets/images/study_systems/asellus1.jpg" />
-		<p>In a series of in- and outdoor experiments I explored how selection and diet-driven developmental plasticity affect pigmentation phenotypes in the freshwater isopod <i>Asellus aquaticus</i>.</p>
-	</div>
-	
+	<a href="/research/cichlids/">
 		<div class="container-item">
-		<h3>Eco-physiology of tropical corals under stress</h3>
-		<img src="/assets/images/study_systems/asellus1.jpg" />
-		<p>In a series of in- and outdoor experiments I explored how selection and diet-driven developmental plasticity affect pigmentation phenotypes in the freshwater isopod <i>Asellus aquaticus</i>.</p>
-	</div>
+			<img src="/assets/images/thumbs/cichlids.jpg" />
+			<h3>Trophic diversification of Lake Victoria Cichlids</h3>
+			<p> It took less than 15000 years for several hundred species of haplochromine cichlid species to evolve from a common ancestor within Lake Victoria. I am using computer vision to construct a classifier to map fossil teeth onto teeth from contemporary trophic guilds to investigate the speed and order of their emergence.</p>
+		</div>
+	</a>
 	
+	<a href="/research/ecosystems/">
+		<div class="container-item">
+			<img src="/assets/images/thumbs/ecosystems.jpg" />
+			<h3>Determinants of temporal variation in aquatic ecosystem</h3>
+			<p> Submerged macrophytes are important foundation species that can influence the structure and functioning of aquatic ecosystems over time and govern the response to perturbation. In a series of large scale outdoor experiments we quantified ecosystem effects of macrophytes using cutting-edge high frequency measurement technology.</p>
+		</div>
+	</a>
+
+	<a href="http://www.oikosjournal.org/blog/how-can-so-similiar-species-co-exist" target="_blank">
+		<div class="container-item">
+			<img src="/assets/images/thumbs/seagrass.jpg" />
+			<h3>Seagrass mesograzer microhabitat choice under predation pressure</h3>
+			<p></p>
+		</div>
+	</a>
+
+	<a href="https://www.sciencedirect.com/science/article/abs/pii/S1385110115000076?via=ihub">
+		<div class="container-item">
+			<img src="/assets/images/thumbs/corals.jpg" />
+			<h3>Ecophysiology of tropical corals experiencing multiple stressors</h3>
+			<p></p>
+		</div>
+	</a>
 	
 </div>

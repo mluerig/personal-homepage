@@ -1,4 +1,10 @@
 body[data-theme="dark"] {
+	
+	
+  /* .container-item { */
+	/* background-color: $dark-white; */
+  /* } */
+	
   color: $dark-text-base-color;
   background-color: $dark-black;
 
@@ -29,8 +35,7 @@ body[data-theme="dark"] {
   // Post
   .page-content {
     a {
-      color: $dark-text-link-blue;
-
+      /* color: $dark-text-link-blue; */
       &:hover,
       &:active,
       &:focus {
@@ -38,9 +43,9 @@ body[data-theme="dark"] {
       }
     }
 
-    h3 {
-      border-color: $dark-light;
-    }
+    /* h3 { */
+      /* border-color: $dark-light; */
+    /* } */
     h1,
     h2,
     h3,

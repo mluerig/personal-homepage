@@ -9,7 +9,7 @@ The common bluetail damselfly *Ischnura elegans* is exhibits temporally stable f
 
 <div class="res-center">
 <div class="res-container">
-<img class="res-img" src="/assets/images/damselfly_polymorphism.png">
+<img class="res-img" src="/assets/images/figures/damselfly_polymorphism.png">
 <div class="res-caption">
 Figure 1 - A) Mating in the common bluetail damselfly (*Ischnura elegans*), where the male (upper) and the female can remain in copula for several hours. B) Variation in female colour morph frequencies of *I. elegans* across Europe: the frequency of androchrome (male-mimicking) females increases at higher latitudes. C) Colour development is genetic and controlled by a single autosomal locus with three alleles forming a dominance hierarchy (androchrome > infuscans > infuscans obsoleta). All images reproduced from Svensson et al. (2020) with permission from Erik Svensson.
 </div>
@@ -20,9 +20,9 @@ One explanation for the high frequency of the male mimicking female morph is tha
 
 <div class="res-center">
 <div class="res-container">
-<img class="res-img" src="/assets/images/damselfly_phenopype.jpg">
+<img class="res-img" src="/assets/images/figures/damselfly_phenopype.png">
 <div class="res-caption">
-Figure 2 - Scanned image of the common bluetail damselfly (<i>Ischnura elegans</i>), segmented with the Python package <a href="https://mluerig.github.io/phenopype/">phenopype</a>
+Figure 2 - Scanned image of the common bluetail damselfly (<i>Ischnura elegans</i>), segmented with the Python package <b><a href="www.phenopype.org">phenopype</a></b>.
 </div>
 </div>
 </div>

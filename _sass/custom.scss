@@ -1,4 +1,4 @@
-/* Responsive overview container list */
+/* Responsive research container list */
  
 .container-list {
 	display: flex;
@@ -13,7 +13,8 @@
 .container-item {
 	display: flex;
 	flex-direction: column;
-	background-color: #353d4b;
+	background-color: #fff;
+	border: 5px solid #F3F3F3;
 	padding: 10px;
 	border-radius: 5px;
 	max-width: 300px;
@@ -23,24 +24,26 @@
 
 }
 
+.container-item:hover {
+	background-color: #F3F3F3;
+}
+.container-item:hover h3 {
+	color: $text-link-blue-active;
+}
+
+
 .container-item img {
 	max-width: 120%;
 	max-height: 120%;
 	object-fit: contain;
 	margin: -10px;
-
 }
 
 .container-item h3 {
-	margin-top:15px;
-	margin-top:15px;
-	/* border: 0px; */
+	margin-top: 20px;
+	margin-bottom: -5px;
+	border: 0px;
 }
-
-.container-item:hover {
-	background: #455062;
-}
-
 
 @media (max-width: $on-mobile ){
 	.container-list{
@@ -48,6 +51,60 @@
 	}
 }
 
+
+/* Figures in research area */
+
+.res-center {
+display: flex;
+justify-content: center;
+}
+
+.res-container{
+display: flex;
+flex-direction: column;
+width: 600px;
+margin-bottom: 10px;
+}
+
+.res-img {
+border-radius: 5px;
+}
+
+.res-caption{
+text-align: justify;
+font-size: 12px;
+padding-top: 10px;
+}
+
+
+/* Dark mode adjustments */
+
+body[data-theme="dark"] {
+	
+	.container-item {
+	background-color: #131418;
+	border: 5px solid #3C3C3C;
+	}
+	
+	.container-item:hover {
+	background-color: #3C3C3C;
+	} 
+	
+	.container-item:hover h3 {
+	    color: $dark-text-link-blue-active;
+	}
+	
+	.navbar {
+		background-color:rgb(19,20,24);
+	}	
+	
+}
+
+body .navbar {
+		background-color:rgb(255,255,255);
+}
+
+/* Navbar (sticky) */
 
 .navbar {
   height: auto;
@@ -65,15 +122,6 @@
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
-
-body[data-theme="dark"] .navbar {
-		background-color:rgb(19,20,24);
-}
-
-body .navbar {
-		background-color:rgb(255,255,255);
-}
-
 
 .wrapper navbar{
   max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2));
@@ -95,6 +143,11 @@ body .navbar {
 	padding: $spacing-full - 15px $spacing-full;
 }
 
+
+
+
+/* Social media footer  */
+
 .social-media{
   display: flex;
   justify-content: center;
@@ -102,8 +155,7 @@ body .navbar {
   
 .social-media img{
 	max-height: 100px;
-	  padding: 10px;
-
+	padding: 10px;
 }
   
 .social-media-footer{
@@ -116,3 +168,7 @@ body .navbar {
 		padding: 5px;
 
 }
+
+
+
+

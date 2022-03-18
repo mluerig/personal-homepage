@@ -33,7 +33,8 @@ highlighter: rouge
 kramdown:
   syntax_highlighter: rouge
   parse_block_html: false
-  
+  auto_ids: true
+
 # Default front matter
 defaults:
   - scope:

@@ -9,7 +9,7 @@ Lake Victoria is the largest lake in Africa and harbored more than 500 endemic s
 
 <div class="res-center">
 <div class="res-container">
-<img class="res-img" src="/assets/images/cichlids_LV.png">
+<img class="res-img" src="/assets/images/figures/cichlids_LV.png">
 <div class="res-caption">
 Figure 1 - Trophic diversity most likely evolved de-novo in modern Lake Victoria (Meier et al 2017): Sympatrically living, closely related species usually have male coloration at opposite ends of the color spectrum. Since mate choice is determined on the basis of coloration it is likely that strong assortative mating quickly lead to sexual isolation of color morphs (Seehausen 2006).
 </div>
@@ -20,7 +20,7 @@ I am using a combination of classic Machine Learning (shape features) and Deep L
 
 <div class="res-center">
 <div class="res-container">
-<img class="res-img" src="/assets/images/cichlid_teeth.png">
+<img class="res-img" src="/assets/images/figures/cichlid_teeth.png">
 <div class="res-caption">
 Figure 2 - We are using high throughput phenotyping of extant tooth phenotypes from Lake Victoria cichlids to create a reference collection.
 </div>

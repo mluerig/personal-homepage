@@ -34,10 +34,25 @@ layout: compress
 	
   <div class="wrapper">
     <header class="header">
-      <h1 class="header-title center" itemprop="headline">{{ page.title | escape }}.</h1>
+      <h1 class="header-title center" itemprop="headline">
+	  
+	  
+	  {{ page.title | escape }}
+	  
+	  	<!-- <div class="dropdown"> -->
+		  <!-- <button class="dropbtn">.</button> -->
+		  <!-- <div class="dropdown-content"> -->
+			<!-- {% include toc.html html=content h_max=2 %} -->
+		  <!-- </div> -->
+		<!-- </div> -->
+	  
+	  
+	  
+	  
+	  </h1>
     </header>
     <main class="page-content" aria-label="Content">
-      {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=4 h_max=4 %}
+		{% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=1 h_max=4 %}
     </main>
     {% include footer.html %}
   </div>
