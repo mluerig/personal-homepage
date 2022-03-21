@@ -36,3 +36,10 @@ https://www.phenopype.org/gallery/
 # Guides
 
 ## Interactive plotting in R and Python
+
+
+- favicon 
+- pointer research
+- link colour 
+- links about
+- distance social media
