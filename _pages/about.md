@@ -4,13 +4,25 @@ permalink: /about/
 title: about me
 ---
 
-<div style="padding-bottom:12px; padding-top:24px; text-align: center; font-weight: bold; font-size:125%">
+<div class="social-media">
+	<a href="/assets/files/moritz_luerig_cv.pdf" target="_blank">
+	<img src="/assets/images/social_media/cv.png">
+	</a>
+    <a href="https://twitter.com/mluerig" target="_blank">
+	<img src="/assets/images/social_media/twitter.png">
+	</a>
+    <a href="https://www.strava.com/athletes/16016298" target="_blank">
+	<img src="/assets/images/social_media/strava.png">
+	</a>
+</div>
+
+<div style="padding-bottom:12px; padding-top:24px; text-align: center; font-weight: bold; font-size:100%">
 <a href="https://youtu.be/G-mc6OhqQiI?t=14" target="_blank">
 "I like ... people, places, and things".</a></div>
 
-> Postdocs (since 2020 )
+> Postdocs (since 2020)
 
-I am currently based at Lund University in Southern Sweden in **[Erik Svensson's lab](https://portal.research.lu.se/en/organisations/evolution-and-ecology-of-phenotypes-in-nature)**. My work is funded for a total of three and a half years by the Swiss National Science Foundation (SNSF) through an Early Postdoc.mobility fellowship and by the European Commission through a Marie Skłodowska-Curie fellowship. Before coming to Lund I worked as a short term (0.5 year) postdoc in Ole Seehausen's lab at Eawag Kastanienbaum, where I supported investigations of the evolutionary past of Lake Victoria Cichlids.
+I am currently based at Lund University in Southern Sweden in <a id="link" href="https://portal.research.lu.se/en/organisations/evolution-and-ecology-of-phenotypes-in-nature" target="_blank">Erik Svensson's lab</a>. My work is funded for a total of three and a half years by the Swiss National Science Foundation (SNSF) through an Early Postdoc.mobility fellowship and by the European Commission through a Marie Skłodowska-Curie fellowship. Before coming to Lund I worked as a short term (0.5 year) postdoc in Ole Seehausen's lab at Eawag Kastanienbaum, where I supported investigations of the evolutionary past of Lake Victoria Cichlids.
 
 > PhD (2015 - 2019)
 
