@@ -62,8 +62,8 @@ Findings from this and other work on the relevance of isopod pigmentation and de
 
 Hargeby, A., J. Johansson, and J. Ahnesjö. (2004). Habitat-specific pigmentation in a freshwater isopod: adaptive evolution over a small spatiotemporal scale. Evolution; international journal of organic evolution 58:81–94.
 
-Lafuente, E., <u><strong>Lürig, M. D.</strong></u>, Rövekamp, M., Matthews, B., Buser, C., Vorburger, C., & Räsänen, K. (2021). Building on 150 years of knowledge: the freshwater isopod Asellus aquaticus as an integrative eco-evolutionary model system. Frontiers in Ecology and Evolution, 699.
+Lafuente, E., <b>Lürig, M.D.</b>, Rövekamp, M., Matthews, B., Buser, C., Vorburger, C., & Räsänen, K. (2021). Building on 150 years of knowledge: the freshwater isopod Asellus aquaticus as an integrative eco-evolutionary model system. Frontiers in Ecology and Evolution, 699.
 
-<u><strong>Lürig, M. D.</strong></u>, R. J. Best, M. Svitok, J. Jokela, and B. Matthews (2019). The role of plasticity in the evolution of cryptic pigmentation in a freshwater isopod. The Journal of Animal Ecology 88:612–623.
+<b>Lürig, M.D.</b>, R. J. Best, M. Svitok, J. Jokela, and B. Matthews (2019). The role of plasticity in the evolution of cryptic pigmentation in a freshwater isopod. The Journal of Animal Ecology 88:612–623.
 
-<u><strong>Lürig, M. D.</strong></u>, and Matthews, B. (2021). Dietary-based developmental plasticity affects juvenile survival in an aquatic detritivore. Proceedings of the Royal Society B: Biological Sciences, 288(1945), 20203136. 
+<b>Lürig, M.D.</b>, and Matthews, B. (2021). Dietary-based developmental plasticity affects juvenile survival in an aquatic detritivore. Proceedings of the Royal Society B: Biological Sciences, 288(1945), 20203136. 

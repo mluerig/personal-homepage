@@ -5,7 +5,7 @@ layout: compress
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: " en " }}">
 
-{% include header.html %}
+{% include header.html %}		
 
 <body data-theme="{{ site.mode }}" class="notransition">
 
@@ -28,7 +28,7 @@ layout: compress
     setTimeout(() => body.classList.remove("notransition"), 75);
   </script>
 	
-	<div class="wrapper">
+  <div class="navbar-center">
 		{% include navbar.html %}
 	</div>
 	
@@ -36,19 +36,8 @@ layout: compress
     <header class="header">
       <h1 class="header-title center" itemprop="headline">
 	  
-	  
 	  {{ page.title | escape }}
-	  
-	  	<!-- <div class="dropdown"> -->
-		  <!-- <button class="dropbtn">.</button> -->
-		  <!-- <div class="dropdown-content"> -->
-			<!-- {% include toc.html html=content h_max=2 %} -->
-		  <!-- </div> -->
-		<!-- </div> -->
-	  
-	  
-	  
-	  
+	  	  
 	  </h1>
     </header>
     <main class="page-content" aria-label="Content">

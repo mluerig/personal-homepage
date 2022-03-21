@@ -64,12 +64,12 @@ The times series data collected in this project led to two additional outcomes: 
 
 Appling, A. P., Hall, R. O., Jr, Yackulic, C. B., & Arroita, M. (2018). Overcoming equifinality: Leveraging long time series for stream metabolism estimation. Journal of Geophysical Research. Biogeosciences, 123(2), 624–645. 
 
-<u><strong>Lürig, M. D.</strong></u>, Best, R. J., Dakos, V., & Matthews, B. (2021). Submerged macrophytes affect the temporal variability of aquatic ecosystems. Freshwater Biology, 66(3), 421–435. 
+<b>Lürig, M.D.</b>, Best, R. J., Dakos, V., & Matthews, B. (2021). Submerged macrophytes affect the temporal variability of aquatic ecosystems. Freshwater Biology, 66(3), 421–435. 
 
-<u><strong>Lürig, M. D.</strong></u>, Narwani, A., Penson, H., Wehrli, B., Spaak, P., & Matthews, B. (2021). Non-additive effects of foundation species determine the response of aquatic ecosystems to nutrient perturbation. Ecology, 102(7), e03371.
+<b>Lürig, M.D.</b>, Narwani, A., Penson, H., Wehrli, B., Spaak, P., & Matthews, B. (2021). Non-additive effects of foundation species determine the response of aquatic ecosystems to nutrient perturbation. Ecology, 102(7), e03371.
 
 Narwani, A., Reyes, M., Pereira, A. L., Penson, H., Dennis, S. R., Derrer, S., Spaak, P., & Matthews, B. (2019). Interactive effects of foundation species on ecosystem functioning and stability in response to disturbance. Proceedings. Biological Sciences / The Royal Society, 286(1913), 20191857.
 
-Russo, S., <u><strong>Lürig, M. D.</strong></u>, Hao, W., Matthews, B., & Villez, K. (2020). Active learning for anomaly detection in environmental data. Environmental Modelling & Software, 134, 104869
+Russo, S., <b>Lürig, M.D.</b>, Hao, W., Matthews, B., & Villez, K. (2020). Active learning for anomaly detection in environmental data. Environmental Modelling & Software, 134, 104869
 
-Russo, S., Besmer, M. D., Blumensaat, F., Bouffard, D., Disch, A., Hammes, F., Hess, A., <u><strong>Lürig, M. D.</strong></u>, Matthews, B., Minaudo, C., Morgenroth, E., Tran-Khac, V., & Villez, K. (2021). The value of human data annotation for machine learning based anomaly detection in environmental systems. Water Research, 117695, 117695. 
+Russo, S., Besmer, M. D., Blumensaat, F., Bouffard, D., Disch, A., Hammes, F., Hess, A., <b>Lürig, M.D.</b>, Matthews, B., Minaudo, C., Morgenroth, E., Tran-Khac, V., & Villez, K. (2021). The value of human data annotation for machine learning based anomaly detection in environmental systems. Water Research, 117695, 117695. 

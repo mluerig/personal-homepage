@@ -34,7 +34,7 @@ One explanation for the high frequency of the male mimicking female morph is tha
 <div class="res-container">
 <img class="res-img" src="/assets/images/figures/damselflies_3.png">
 <div class="res-caption">
-Figure 3 - Scanned image of the common bluetail damselfly (<i>Ischnura elegans</i>), segmented with the Python package <a id="link"  href="https://phenopype.org" target="_blank">phenopype</a> that got published in <a id="link"  href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13771" target="_blank">Methods in Ecology and Evolution (Lürig 2021)</a>.
+Figure 3 - Scanned image of the common bluetail damselfly (<i>Ischnura elegans</i>), segmented with the Python package <a id="link"  href="https://phenopype.org" target="_blank">phenopype</a> that got published in <a id="link"  href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13771" target="_blank">Methods in Ecology and Evolution (Lürig 2021)</a>. Visit <a id="link" href="https://www.phenopype.org/gallery/project_9/" target="_blank">https://www.phenopype.org/gallery/project_9/</a> for more details.
 </div>
 </div>
 </div>
@@ -46,7 +46,7 @@ I am currently conducting a comprehensive analysis of morphology in an existing 
 <div class="pointer">
 <p>:point_right:</p>
 <p style="max-width:80%">
-I am investigating morphological signatures that may point towards additional benefits that accrue by androchromatism. I am using a combination of signal processing and deep learning to extract continuous morphological information <br>(visit <a id="link"  href="https://www.phenopype.org/gallery/project_9/" target="_blank">https://www.phenopype.org/gallery/project_9/</a> for more details).  
+I am investigating morphological signatures that may point towards additional benefits that accrue by androchromatism. I am using a combination of signal processing and deep learning to extract continuous morphological information.  
 </p>
 <p>:point_left:</p>
 </div>
@@ -57,6 +57,6 @@ Gosden, T. P., R. Stoks, and E. I. Svensson (2011). Range limits, large-scale bi
 
 Le Rouzic, A., T. F. Hansen, T. P. Gosden, and E. I. Svensson (2015). Evolutionary time-series analysis reveals the signature of frequency-dependent selection on a female mating polymorphism. The American naturalist 185:E182–96
 
-<u><strong>Lürig, M. D.</strong></u> (2022). phenopype : A phenotyping pipeline for Python. Methods in Ecology and Evolution / British Ecological Society, 13(3), 569–576.
+<b>Lürig, M.D.</b> (2022). phenopype : A phenotyping pipeline for Python. Methods in Ecology and Evolution / British Ecological Society, 13(3), 569–576.
 
 Svensson, E. I., B. Willink, M. C. Duryea, and L. T. Lancaster (2020). Temperature drives pre-reproductive selection and shapes the biogeography of a female polymorphism. Ecology letters 23:149–159.

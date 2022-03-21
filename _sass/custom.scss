@@ -40,14 +40,17 @@
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
-	justify-content: flex-start;
+	justify-content: center;
+	align-items: flex-start;
+	align-content: center;
 	gap:15px;
-	max-width: 800px;
+	/* max-width: 800px; */
 	padding-top:20px;
 }
 
 .container-item {
 	display: flex;
+	flex: calc(100% / 2);
 	flex-direction: column;
 	background-color: #C7C7C7;
 	border: 5px solid #C7C7C7;
@@ -56,7 +59,7 @@
 	max-width: 300px;
 	cursor: pointer;
 	overflow: hidden;
-	justify-content: flex-start;
+	position: relative;
 	}
 
 .container-item:hover {
@@ -128,6 +131,7 @@ body .navbar {
 	align-items: center; 
 	font-weight: bold; 
 	gap: 10px;
+	min-width: 10px;
 }
 /* Figures in research area */
 
@@ -159,7 +163,7 @@ padding-top: 10px;
   height: auto;
   width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2));
   width: calc(#{$narrow-size} - (#{$spacing-full} * 2));
-	/* background-color:rgb(19,20,24); */
+	background-color:rgb(19,20,24);
 	z-index : 1;
 	position: relative;
   margin-right: auto;
@@ -172,20 +176,29 @@ padding-top: 10px;
 	padding-bottom: 15px;
 }
 
-.wrapper navbar{
-  max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2));
-  max-width: calc(#{$narrow-size} - (#{$spacing-full} * 2));
-  position: relative;
-  margin-right: auto;
-  margin-left: auto;
-	padding: $spacing-full - 15px $spacing-full;
+/* .wrapper navbar{ */
+	/* max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2)); */
+	/* max-width: calc(#{$narrow-size} - (#{$spacing-full} * 2)); */
+	/* position: relative; */
+/* } */
 
-  @include media-query($on-mobile) {
-    max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full}));
-    max-width: calc(#{$narrow-size} - (#{$spacing-full}));
-    padding-right: $spacing-full - 10;
-    padding-left: $spacing-full - 10;
-  }
+.navbar-center {
+	max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2));
+	max-width: calc(#{$narrow-size} - (#{$spacing-full} * 2));
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: $spacing-full;
+	padding-left: $spacing-full;
+	@extend %clearfix;
+
+	@include media-query($on-mobile) {
+	max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full}));
+	max-width: calc(#{$narrow-size} - (#{$spacing-full}));
+	padding-right: $spacing-full - 10;
+	padding-left: $spacing-full - 10;
+
+	}
 }
 
 .wrapper main{
@@ -239,7 +252,12 @@ blockquote {
 
 
 #link {
-  text-decoration: underline;
-  text-decoration-color: inherit;
-  font-weight: 800;
+	color: inherit; 
+	text-decoration: underline;
+	text-decoration-color: inherit;
+	font-weight: 800;
+}
+
+a:visited {
+  color: inherit;
 }

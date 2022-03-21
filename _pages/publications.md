@@ -63,8 +63,8 @@ Moosmann, M., Cuenca-Cambronero, M., De Lisle, S., Greenway, R., Hudson, C. <b>L
 ## 2020
 
 <b>Lürig, M.D.</b>, Best, R.J., Dakos, V., and Matthews, B. (2020). Submerged macrophytes affect the temporal variability of aquatic ecosystems. Freshw. Biol. 66(3), 104869.
-<a href="https://doi.org/10.1111/fwb.13648" target="_blank">[DOI]</a>
-<a href="\assets\files\papers\Lürig et al. 2021 - FWB_accepted.pdf" target="_blank"> [PDF]</a>	
+<a id="link" href="https://doi.org/10.1111/fwb.13648" target="_blank">[DOI]</a>
+<a id="link" href="\assets\files\papers\Lürig et al. 2021 - FWB_accepted.pdf" target="_blank"> [PDF]</a>	
 
 <b>Lürig, M.D.</b>, Hao, W., Matthews, B., and Villez, K. (2020). Active learning for anomaly detection in environmental data. Environmental Modelling \& Software 134, 104869. 
 <img src="/assets/images/open_access_logo.png" style="height: 1.2em; padding: 3px; margin-top: -2px"> 
