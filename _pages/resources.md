@@ -37,9 +37,6 @@ https://www.phenopype.org/gallery/
 
 ## Interactive plotting in R and Python
 
+# Asellus 
 
-- favicon 
-- pointer research
-- link colour 
-- links about
-- distance social media
+# Computer vision

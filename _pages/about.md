@@ -26,11 +26,15 @@ I am currently based at Lund University in Southern Sweden in <a id="link" href=
 
 > PhD (2015 - 2019)
 
-I completed my PhD in Blake Matthews' lab at Eawag Kastanienbaum under co-supervision from Jukka Jokela, funded by ETH Zürich's Center for **[Adaptation to a Changing Environment](https://adaptation.ethz.ch/){:target="_blank"}**. For my thesis, I conducted a series of experiments to explore the role of different types of species interactions within different levels of ecological organization and across a range of ecological contexts. An electronic copy of my thesis can be downloaded **[>>here<<](https://www.dora.lib4ri.ch/eawag/islandora/object/eawag%3A19819){:target="_blank"}**. 
+I completed my PhD in Blake Matthews' lab at Eawag Kastanienbaum under co-supervision from Jukka Jokela, funded by ETH Zürich's <a id="link" href="https://adaptation.ethz.ch/" target="_blank"> Center for Adaptation to a Changing Environment</a>. For my thesis, I conducted a series of experiments to explore the role of different types of species interactions within different levels of ecological organization and across a range of ecological contexts. An electronic copy of my thesis can be downloaded <a id="link" href="https://www.dora.lib4ri.ch/eawag/islandora/object/eawag%3A19819" target="_blank"> here </a>. 
 
 > Undergrad (2006 - 2015)
 
-I received both of my undergrad degrees from the University of Oldenburg, where I was based at the Institute for Chemistry and Biology of the Marine Environment (**[ICBM](https://uol.de/icbm)**). I did my Bachelors thesis with **[Andreas Kunzmann](https://www.leibniz-zmt.de/de/tropenforschung/organisation/wissenschaftliche-abteilungen-struktur/oekologie/ag-experimentelle-aquakultur.html){:target="_blank"}** at the Center for Tropical Marine Ecology in Bremen, Germany, where I investigated the effect of multiple stressors on scleractinian corals. I then went abroad abroad to California for my Masters thesis, to investigate coexistence patterns of seasgrass mesograzers in the **[Stachowicz lab](https://stachlab.wordpress.com/){:target="_blank"}** at Bodega Marie Laboratory, UC-Davis. 
+<a id="link" href="https://uol.de/icbm" target="_blank">ICBM</a> 
+<a id="link" href="https://www.leibniz-zmt.de/de/tropenforschung/organisation/wissenschaftliche-abteilungen-struktur/oekologie/ag-experimentelle-aquakultur.html" target="_blank">Kunzmann lab</a> 
+<a id="link" href="https://stachlab.wordpress.com/" target="_blank">Stachowicz lab</a> 
+
+I received both of my undergrad degrees from the University of Oldenburg, where I was based at the Institute for Chemistry and Biology of the Marine Environment (<a id="link" href="https://uol.de/icbm" target="_blank">ICBM</a>). I did my Bachelors thesis at the <a id="link" href="https://www.leibniz-zmt.de/de/tropenforschung/organisation/wissenschaftliche-abteilungen-struktur/oekologie/ag-experimentelle-aquakultur.html" target="_blank">Kunzmann lab</a>  at the Center for Tropical Marine Ecology in Bremen, Germany, where I investigated the effect of multiple stressors on scleractinian corals. I then went abroad abroad to California for my Masters thesis, to investigate coexistence patterns of seasgrass mesograzers at the <a id="link" href="https://stachlab.wordpress.com/" target="_blank">Stachowicz lab</a> at Bodega Marie Laboratory, UC-Davis. 
 
 > pre science
 

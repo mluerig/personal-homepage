@@ -9,17 +9,13 @@ I am interested in patterns and processes that give rise to phenotypic variation
 
 Moreover, I am investigating how variation in the environment experienced during early life stages can lead to alternative developmental trajectories (developmental plasticity), and how this may affect speed and direction of evolutionary change, for example, by selecting for plastic responses to variation of the environment (adaptive plasticity).
 
-<div style="display: flex; justify-content: center; padding-bottom:0px; padding-top:24px; font-size:125%; text-align: center; align-items: center; font-weight: bold; gap: 10px;">
-
+<div class="pointer">
 <p>:point_right:</p>
-<p style="max-width:90%">
-The goal of my science is to understand both proximate and ultimate causes of phenotypic variation within and across natural populations.
+<p style="max-width:80%">
+My aim is to understand both proximate and ultimate causes of phenotypic variation within and across natural populations.
 </p>
-
 <p>:point_left:</p>
-
 </div>
-
 
 ## methods
 
