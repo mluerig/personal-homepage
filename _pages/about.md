@@ -30,10 +30,6 @@ I completed my PhD in Blake Matthews' lab at Eawag Kastanienbaum under co-superv
 
 > Undergrad (2006 - 2015)
 
-<a id="link" href="https://uol.de/icbm" target="_blank">ICBM</a> 
-<a id="link" href="https://www.leibniz-zmt.de/de/tropenforschung/organisation/wissenschaftliche-abteilungen-struktur/oekologie/ag-experimentelle-aquakultur.html" target="_blank">Kunzmann lab</a> 
-<a id="link" href="https://stachlab.wordpress.com/" target="_blank">Stachowicz lab</a> 
-
 I received both of my undergrad degrees from the University of Oldenburg, where I was based at the Institute for Chemistry and Biology of the Marine Environment (<a id="link" href="https://uol.de/icbm" target="_blank">ICBM</a>). I did my Bachelors thesis at the <a id="link" href="https://www.leibniz-zmt.de/de/tropenforschung/organisation/wissenschaftliche-abteilungen-struktur/oekologie/ag-experimentelle-aquakultur.html" target="_blank">Kunzmann lab</a>  at the Center for Tropical Marine Ecology in Bremen, Germany, where I investigated the effect of multiple stressors on scleractinian corals. I then went abroad abroad to California for my Masters thesis, to investigate coexistence patterns of seasgrass mesograzers at the <a id="link" href="https://stachlab.wordpress.com/" target="_blank">Stachowicz lab</a> at Bodega Marie Laboratory, UC-Davis. 
 
 > pre science
