@@ -22,7 +22,7 @@ Androchromatism (i.e., male mimicry) can thus reduce the fitness costs of male m
 <div class="res-container">
 <img class="res-img" src="/assets/images/figures/damselflies_2.png">
 <div class="res-caption">
-Figure 2 - Observed (points) and estimated (lines) morph frequencies for several populations from Skane (Sweden). Blue = A morph; beige = I morph; brown = O morph. The size of the points is proportional to the sample size, and dotted segments stand for approximate 95% confidence intervals. Estimated equilibrium frequencies are indicated as horizontal dotted lines. Reproduced from Le Rouzic et al. (2015) with permission from Erik Svensson.
+Figure 2 - Observed (points) and estimated (lines) morph frequencies for several populations from Skane (Sweden): blue = androchrome; beige = infuscans; brown = infuscans obsoleta. The size of the points is proportional to the sample size, and dotted segments stand for approximate 95% confidence intervals. Estimated equilibrium frequencies are indicated as horizontal dotted lines. Reproduced from Le Rouzic et al. (2015) with permission from Erik Svensson.
 </div>
 </div>
 </div>
