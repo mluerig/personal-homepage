@@ -51,7 +51,7 @@ This is more of a proof of principle, illustrating where the website content is 
 
 # The better way: fork-clone-edit-push
 
-This might be the most convient method for most people. Here, an existing jekyll theme is forked and cloned to your local computer, where you can edit it with your favorite text editor, and then push the changes to the forked repo. 
+This might be the most convenient method for most people. Here, an existing jekyll theme is forked and cloned to your local computer, where you can edit it with your favorite text editor, and then push the changes to the forked repo. 
 
 1. Install git on your machine - see [this guide](https://github.com/git-guides/install-git). 
 
@@ -96,7 +96,8 @@ This might be the most convient method for most people. Here, an existing jekyll
 
 This is assuming that you have already forked or made your own gh-pages repo to work with. 
 
-1. Install [Jekyll](https://jekyllrb.com/docs/installation/){:target="_blank"} on your local machine: 
+1. Install [Jekyll](https://jekyllrb.com/docs/installation/){:target="_blank"} on your local machine:
+ 
 	- download and install Ruby (a high-level programming language) - simply follow the [instructions on the Ruby community website](https://www.ruby-lang.org/en/downloads/){:target="_blank"}
 	- update gems, Ruby's package management system: `gem update`
 	- GCC need to be installed and your system. On Windows, if you install Ruby through the ruby installer, GCC will become available through the MSYS2 devkit installed after the Ruby installation - simply hit "Enter" when you see this: 
