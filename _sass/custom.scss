@@ -264,3 +264,46 @@ a {
 a:visited {
   color: inherit;
 }
+
+/* IMAGES */
+
+
+.gallery-grid {
+	
+  display: flex; 
+  flex-direction: row;
+  flex-wrap: wrap; 
+  gap: 5px;
+  justify-content: flex-start;
+  width: 90%;
+  justify-content: center;
+
+
+}
+
+.gallery-grid div {
+  flex: calc(85% / 3);
+}
+
+.gallery-thumb {
+	
+  display: grid;
+  /* min-width: 250px; */
+  padding: 5px;
+
+}
+
+.gallery-thumb img {
+	
+    margin-bottom: 0em;
+	max-width:100%;
+	max-height:100%;
+    border-radius: 6px;
+	object-fit: contain;
+
+}
+
+
+
+
+	

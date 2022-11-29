@@ -11,34 +11,52 @@ title: about me
     <a href="https://twitter.com/mluerig" target="_blank">
 	<img src="/assets/images/social_media/twitter.png">
 	</a>
+    <a href="https://ecoevo.social/@mluerig" target="_blank">
+	<img src="/assets/images/social_media/mastodon.png">
+	</a>
     <a href="https://www.strava.com/athletes/16016298" target="_blank">
 	<img src="/assets/images/social_media/strava.png">
 	</a>
 </div>
 
-<div style="display:flex; justify-content: center; ">
+<br>
 
 
+<div style="display: flex; justify-content: center;">
+
+	<div class="gallery-grid">
+
+		<div class="gallery-thumb">
+		<a href="/assets/images/about/ml-01.jpg" data-lightbox="about"><img src="/assets/images/about/ml-01.jpg" alt=""/></a>
+		</div>
+	
+		<div class="gallery-thumb">
+		<a href="/assets/images/about/ml-02.jpg" data-lightbox="about"><img src="/assets/images/about/ml-02.jpg" alt=""/></a>
+		</div>
+
+		<div class="gallery-thumb">
+		<a href="/assets/images/about/ml-03.jpg" data-lightbox="about"><img src="/assets/images/about/ml-03.jpg" alt=""/></a>
+		</div>
+		
+		<div class="gallery-thumb">
+		<a href="/assets/images/about/ml-04.jpg" data-lightbox="about"><img src="/assets/images/about/ml-04.jpg" alt=""/></a>
+		</div>
+		
+		<div class="gallery-thumb">
+		<a href="/assets/images/about/ml-05.jpg" data-lightbox="about"><img src="/assets/images/about/ml-05.jpg" alt=""/></a>
+		</div>
+
+		<div class="gallery-thumb">
+		<a href="/assets/images/about/ml-06.jpg" data-lightbox="about"><img src="/assets/images/about/ml-06.jpg" alt=""/></a>
+		</div>
+
+	</div>
 
 
-<figure class="third ">
-  
-    
-	<div style="display:flex; justify-content: center;">
-	<a href="/assets/images/about/ml-01.jpg" data-lightbox="about"></a><img class="gallery-thumb" src="/assets/images/about/ml-01.jpg" alt=""/>
-	<a href="/assets/images/about/ml-02.jpg" data-lightbox="about"></a><img class="gallery-thumb" src="/assets/images/about/ml-02.jpg" alt=""/>
-	<a href="/assets/images/about/ml-03.jpg" data-lightbox="about"></a><img class="gallery-thumb" src="/assets/images/about/ml-03.jpg" alt=""/>
-    
-  
-  
-</figure>
 
 </div>
 
-
-<div style="padding-bottom:12px; padding-top:24px; text-align: center; font-weight: bold; font-size:100%">
-<a href="https://youtu.be/G-mc6OhqQiI?t=14" target="_blank">
-"I like ... people, places, and things".</a></div>
+<br>
 
 > Postdocs (since 2020)
 
