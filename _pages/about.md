@@ -16,9 +16,25 @@ title: about me
 	</a>
 </div>
 
-<div style="display:flex; justify-content: center;">
-{% include image-gallery.html folder="/assets/images/about" %}
+<div style="display:flex; justify-content: center; ">
+
+
+
+
+<figure class="third ">
+  
+    
+	<div style="display:flex; justify-content: center;">
+	<a href="/assets/images/about/ml-01.jpg" data-lightbox="about"></a><img class="gallery-thumb" src="/assets/images/about/ml-01.jpg" alt=""/>
+	<a href="/assets/images/about/ml-02.jpg" data-lightbox="about"></a><img class="gallery-thumb" src="/assets/images/about/ml-02.jpg" alt=""/>
+	<a href="/assets/images/about/ml-03.jpg" data-lightbox="about"></a><img class="gallery-thumb" src="/assets/images/about/ml-03.jpg" alt=""/>
+    
+  
+  
+</figure>
+
 </div>
+
 
 <div style="padding-bottom:12px; padding-top:24px; text-align: center; font-weight: bold; font-size:100%">
 <a href="https://youtu.be/G-mc6OhqQiI?t=14" target="_blank">
