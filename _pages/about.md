@@ -16,6 +16,10 @@ title: about me
 	</a>
 </div>
 
+<div style="display:flex; justify-content: center;">
+{% include image-gallery.html folder="/assets/images/about" %}
+</div>
+
 <div style="padding-bottom:12px; padding-top:24px; text-align: center; font-weight: bold; font-size:100%">
 <a href="https://youtu.be/G-mc6OhqQiI?t=14" target="_blank">
 "I like ... people, places, and things".</a></div>

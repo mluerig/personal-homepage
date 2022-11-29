@@ -86,6 +86,6 @@ exclude:
 plugins:
   - jekyll-email-protect
   - jekyll-feed
-  # - jekyll-sitemap
+  - jekyll-gallery-generator
   - jekyll-postfiles
   - jemoji
