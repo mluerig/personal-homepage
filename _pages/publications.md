@@ -62,7 +62,7 @@ Moosmann, M., Cuenca-Cambronero, M., De Lisle, S., Greenway, R., Hudson, C. <b>L
 
 ## 2020
 
-<b>Lürig, M.D.</b>, Best, R.J., Dakos, V., and Matthews, B. (2020). Submerged macrophytes affect the temporal variability of aquatic ecosystems. Freshw. Biol. 66(3), 104869.
+<b>Lürig, M.D.</b>, Best, R.J., Dakos, V., and Matthews, B. (2020). Submerged macrophytes affect the temporal variability of aquatic ecosystems. Freshwater Biology 66(3), 421-435.
 <a id="link" href="https://doi.org/10.1111/fwb.13648" target="_blank">[DOI]</a>
 <a id="link" href="\assets\files\papers\Lürig et al. 2021 - FWB_accepted.pdf" target="_blank"> [PDF]</a>	
 
