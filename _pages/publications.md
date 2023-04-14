@@ -23,7 +23,7 @@ title: publications
 
 Best, R.J. and <b>Lürig, M.D.</b>. The Ecological Importance of Crustacean Diversity. Book chapter in: Gutow, L., Poore, A. and Thiel, M. (Eds.), The Natural History of the Crustacea: The Ecological Role and Conservation of Crustaceans. Oxford University Press. <i>In press</i>.
 
-<b>Lürig, M.D.</b> (2022). phenopype: A phenotyping pipeline for Python. Methods in Ecology and Evolution / British Ecological Society, 13(3), 569–576. 
+<b>Lürig, M.D.</b> (2022). phenopype: A phenotyping pipeline for Python. Methods in Ecology and Evolution, 13(3), 569–576. 
 <img src="/assets/images/open_access_logo.png" style="height: 1.2em; padding: 3px; margin-top: -2px"> 
 <a id="link" href="https://doi.org/10.1111/2041-210x.13771" target="_blank"> [DOI]</a>
 <a id="link" href="\assets\files\papers\Lürig 2022 - phenopype - A phenotyping pipeline for Python.pdf" target="_blank"> [PDF]</a>
@@ -54,7 +54,7 @@ Moosmann, M., Cuenca-Cambronero, M., De Lisle, S., Greenway, R., Hudson, C. <b>L
 <a id="link" href="https://doi.org/10.3389/fevo.2021.642774" target="_blank">[DOI]</a>
 <a id="link" href="\assets\files\papers\Lürig et al. 2021 - Computer Vision, Machine Learning, and the Promise of Phenomics in Ecology and Evolutionary Biology.pdf" target="_blank"> [PDF]</a>	
 
-<b>Lürig, M.D.</b>, and Matthews, B. (2021). Dietary-based developmental plasticity affects juvenile survival in an aquatic detritivore. Proceedings of the Royal Society B: Biological Sciences 288: 20203136.
+<b>Lürig, M.D.</b>, and Matthews, B. (2021). Dietary-based developmental plasticity affects juvenile survival in an aquatic detritivore. Proceedings of the Royal Society B: Biological Sciences 288(1945): 20203136.
 <img src="/assets/images/open_access_logo.png" style="height: 1.2em; padding: 3px; margin-top: -2px"> 
 <a id="link" href="https://doi.org/10.1098/rspb.2020.3136" target="_blank">[DOI]</a>
 <a id="link" href="\assets\files\papers\Lürig and Matthews 2021 - Dietary-based developmental plasticity affects juvenile survival in an aquatic detritivore.pdf" target="_blank"> [PDF]</a>	
