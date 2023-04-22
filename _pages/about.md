@@ -52,8 +52,6 @@ title: about me
 
 	</div>
 
-
-
 </div>
 
 <br>

@@ -6,21 +6,15 @@ description: How to easily host and maintain personal or lab-websites using gith
 image: gh-pages.png
 ---
 
-*This is a series of posts where I document some of the techy things I do for my work as a scientist. My motivation for these posts is to both document the procedures for myself and help share them among the science community. My goal is to focus on writing more posts rather than making each post all-encompassing, but if I am missing relevant information please do let me know and I will add it.*
+I like the concept of a personal website to feature scientific interests, resources, or other relevant information related to working as a scientist. What I don't like is spending a lot of time managing content or dealing with bloated and inflexible website management systems, like WordPress. With [github-pages](https://pages.github.com/){:target="_blank"}, a website and its content can be easily hosted and managed through a regular GitHub repository - just like the one you are looking at right now. Together with [jekyll](https://jekyllrb.com/){:target="_blank"}, a generator for static websites that uses [markdown](https://www.markdownguide.org/getting-started/){:target="_blank"}, content management becomes incredibly simple. Here is a short introduction to get a website up and running in a few minutes. 
 
-I like the concept of a personal website to feature scientific interests, resources, or other relevant information related to working as a scientist. What I don't like is spending a lot of time manging content or dealing with bloated and unflexible website management systems, like wordpress. 
-
-With [github-pages](https://pages.github.com/){:target="_blank"}, a website and its content can be easily hosted and managed through a regular github repository - just like the one you are looking at right now. Together with [jekyll](https://jekyllrb.com/){:target="_blank"}, a generator for static websites that uses [markdown](https://www.markdownguide.org/getting-started/){:target="_blank"}, content management becomes incredibly simple. Here is a short introduction to get a website up and running in a few minutes. 
-
-For all the presented methods you will need a github account. 
-
-For additional guides (e.g. how to connect this do your own custom domain) and for links to free themes, see the end of this post.
+For all the presented methods you will need a GitHub account. For additional guides (e.g. how to connect this do your own custom domain) and for links to free themes, see the end of this post.
 
 # The simple way: adding content on github.com
 
 This is more of a proof of principle, illustrating where the website content is hosted and how markdown syntax translates into a website. For building a personal or lab-website from scratch, you may want to use the one of the other methods introduced below.
 
-1. Log into your github account and make a new public repo without any files - I call mine `my-demo-homepage-1`.
+1. Log into your GitHub account and make a new public repo without any files - I call mine `my-demo-homepage-1`.
 
 2. Go to Settings > Pages > Choose a theme - I chose "minimal". Click the "Select theme" button".
 
@@ -34,7 +28,7 @@ This is more of a proof of principle, illustrating where the website content is 
 
         # Demo-homepage of Moritz Lürig
 
-		This is a demonstration of how simple, aesthetic and informative websites can be generated using github pages and jekyll. 
+		This is a demonstration of how simple, aesthetic and informative websites can be generated using github-pages and jekyll. 
 
 		More information can be found at [my actual webpage](https://www.luerig.net/posts/website-with-gh-pages).
 
