@@ -106,8 +106,10 @@ a {
 }
 
 .page-content  {
+	/* text-align: justify; */
 	.nolink {
 	  color: $text-base-color;
+	  /* text-align: left; */
 	}
 }
 
@@ -138,24 +140,17 @@ body[data-theme="dark"] {
 	}	
 	
 	.page-content  {
+		/* text-align: justify; */
 		.nolink {
-		  color: $dark-text-base-color;
+			color: $dark-text-base-color;
 		}
 	}
 	
 }
 
-/* body{ */
-   /* max-width: 1550px; */
-/* } */
-
 body .navbar {
 		background-color:rgb(255,255,255);
 }
-
-/* .wrapper { */
-	/* max-width: $narrow-size; */
-/* } */
 
 /* POINTER */
 
@@ -217,17 +212,8 @@ padding-top: 10px;
 	padding-bottom: 15px;
 }
 
-/* .wrapper navbar{ */
-	/* max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2)); */
-	/* max-width: calc(#{$narrow-size} - (#{$spacing-full} * 2)); */
-	/* position: relative; */
-/* } */
-
 .navbar-center {
-	  display: flex;
-  justify-content: center;
-
-	/* max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2)); */
+	max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2));
 	/* max-width: calc(#{$narrow-size} - (#{$spacing-full} * 2)); */
 	position: relative;
 	margin-right: auto;
@@ -243,10 +229,6 @@ padding-top: 10px;
 
 	}
 }
-
-/* .wrapper main{ */
-	/* padding: $spacing-full - 15px $spacing-full; */
-/* } */
 
 
 /* SOCIAL MEDIA  */
