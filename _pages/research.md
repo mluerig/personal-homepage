@@ -24,7 +24,7 @@ Moreover, I am investigating how variation in the environment experienced during
 <div class="pointer">
 <p>:point_right:</p>
 <p style="max-width:80%">
-I study variation within and across species to understand the drivers of phenotypic diversification.
+I study phenotypic variation within and across species to understand the mechanisms of diversification.
 </p>
 <p>:point_left:</p>
 </div>
