@@ -4,6 +4,18 @@ permalink: /research/
 # title: research
 ---
 
+<div style="display: flex; justify-content: center;">
+
+	<div class="gallery-grid">
+
+		<div class="gallery-thumb" style="max-width:30%">
+		<a href="/assets/images/about/ml-00.jpg" data-lightbox="about"><img src="/assets/images/about/ml-00.jpg" alt=""/></a>
+		</div>
+		
+	</div>
+
+</div>
+
 ## interests
 I am interested in patterns and processes that give rise to phenotypic variation in natural populations over ecological timescales. Specifically, I study how phenotypes are shaped by complex selection scenarios, such as selection for combinations of traits (correlational selection) or modularization (phenotypic integration). 
 
@@ -12,16 +24,16 @@ Moreover, I am investigating how variation in the environment experienced during
 <div class="pointer">
 <p>:point_right:</p>
 <p style="max-width:80%">
-My aim is to understand both proximate and ultimate causes of phenotypic variation within and across natural populations.
+I study variation within and across species to understand the drivers of phenotypic diversification.
 </p>
 <p>:point_left:</p>
 </div>
 
 ## methods
 
-Throughout my career I have used a variety of  aquatic invertebrate model systems to investigate the causes of variation in phyisology, morphology, and behaviour with controlled laboratory experiments, outdoor mesocosm experiments, and field surveys. This includes stone corals (Scleractinia), marine and freshwater amphipods (Amphipoda) and isopods (Isopoda), and, more recently, damselflies and dragonflies (Odonata). 
+Throughout my career I have used a variety of  invertebrate model systems to investigate the causes of variation in physiology, morphology, and behavior with controlled laboratory experiments, outdoor mesocosm experiments, and field surveys. This includes stone corals (Scleractinia), marine and freshwater amphipods (Amphipoda) and isopods (Isopoda), and, most recently, damselflies and dragonflies (Odonata). 
 
-To uncover the causal links between genotypes, environmental factors, and multivariate phenotypes, I am collecting high dimensional phenotypic (phenomic) data in high throughput using computer vision; the automated extraction of meaningful information from digital images. To that end I employ a combination of techniques, ranging from semi-manual signal processeing over classical machine learning to deep learning. 
+To uncover the causal links between genotypes, environmental factors, and multivariate phenotypes, I am collecting high dimensional phenotypic (phenomic) data in high throughput using computer vision; the automated extraction of meaningful information from digital images. To that end I employ a combination of techniques, ranging from semi-manual signal processing over classical machine learning to deep learning. 
 
 ## projects
 

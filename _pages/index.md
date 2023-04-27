@@ -10,5 +10,5 @@ Hi! :wave:
 <br>
 <br>
 
-I am an evolutionary ecologist working on understanding both ultimate and proximate causes of phenotypic variation within and across natural populations. This website is mostly about my science, but I also use it collect techy stuff that I find interesting or useful. Feel free to look around or <a id="link" href="mailto:{{ site.author.email | encode_email }}"> drop me a line </a> if you'd like to have a chat.
+I am an evolutionary ecologist studying variation within and across species to understand the drivers of phenotypic diversification. This website is mostly about my science, but I also use it compile and communicate techy stuff that I find interesting or useful. Feel free to look around and <a id="link" href="mailto:{{ site.author.email | encode_email }}"> drop me a line </a> if you'd like to have a chat.
 </p>
