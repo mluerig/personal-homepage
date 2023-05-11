@@ -192,16 +192,12 @@ padding-top: 10px;
 
 /* MAKE NAVBAR STICKY AND OPAQUE */
 
-  /* max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2)); */
-  /* max-width: calc(#{$narrow-size} - (#{$spacing-full} * 2)); */
-
 .navbar {
 	height: auto;
 	width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2));
 	width: calc(#{$narrow-size} - (#{$spacing-full} * 2));
 	background-color:rgb(19,20,24);
 	z-index : 1;
-	/* position: relative; */
 	margin-right: auto;
 	margin-left: auto;
 	border-bottom: 1px solid $light;
@@ -214,12 +210,9 @@ padding-top: 10px;
 
 .navbar-center {
 	max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2));
-	/* max-width: calc(#{$narrow-size} - (#{$spacing-full} * 2)); */
 	position: relative;
 	margin-right: auto;
 	margin-left: auto;
-	/* padding-right: $spacing-full; */
-	/* padding-left: $spacing-full; */
 	@extend %clearfix;
 	@include media-query($on-mobile) {
 		max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full}));

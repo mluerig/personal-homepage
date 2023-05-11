@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem 'jekyll-archives'
 gem 'jekyll-email-protect'
 gem 'jekyll-feed', '~> 0.13'
 gem 'jekyll-sitemap', '~> 1.4'

@@ -54,6 +54,19 @@ jekyll_compose:
     modified:
     tags: []
     description:
+    
+# jekyll-archives:
+  # enabled:
+    # - year
+    # - categories
+    # - tags
+  # layout: archive
+  # permalinks:
+    # year: '/:year/'
+    # month: '/:year/:month/'
+    # day: '/:year/:month/:day/'
+    # tag: '/tag/:name/'
+    # category: '/category/:name/'
 
 # Homepage limit posts
 number_of_posts: 5
@@ -86,6 +99,6 @@ exclude:
 plugins:
   - jekyll-email-protect
   - jekyll-feed
-  # - jekyll-sitemap
   - jekyll-postfiles
   - jemoji
+  - jekyll-archives
