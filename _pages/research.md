@@ -41,7 +41,7 @@ To uncover the causal links between genotypes, environmental factors, and multiv
 
 <div class="container-list">
 
-	<a href="/research/damselflies/">
+	<a href="/research/projects/ischnura-phenomics">
 		<div class="container-item">
 			<img src="/assets/images/thumbs/damselflies.jpg" />
 			<h3>Phenomics of sexual conflict in <i>Ischnura elegans</i></h3>

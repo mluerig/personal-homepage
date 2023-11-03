@@ -3,9 +3,11 @@ layout: compress
 ---
 
 <!DOCTYPE html>
+
 <html lang="{{ page.lang | default: site.lang | default: " en " }}">
 
 {% include header.html %}
+
 <body data-theme="{{ site.mode }}" class="notransition">
 
   <script>
@@ -27,13 +29,18 @@ layout: compress
     setTimeout(() => body.classList.remove("notransition"), 75);
   </script>
 
-  {% include navbar.html %}
+  <div class="navbar-center">
+		{% include navbar.html %}
+  </div>
+  
   <div class="wrapper">
     <main aria-label="Content">
       <div class="not-found">
         <div class="container">
           <div class="title">404</div>
-          <p class="phrase">😕 Hmm... Seems you lost from my journey.</p>
+		  		  	<img src="/assets/images/obi-wan.jpg" width="50%">
+
+          <p class="phrase">This isn't the page you're looking for...</p>
           <a class="solution" href="{{ site.url }}">back home</a>
         </div>
       </div>

@@ -10,6 +10,5 @@ After 6 years of wordpress and 1.5 years of half-assed GH-pages attempts, I have
 
 
 <figure>
-<img src="0__2016_05_24_time_12_45_14_382000_roi_00_canvas_v1.jpg.jpg" alt="installing nginx in ubuntu">
-<figcaption>Fig 1. Terminal emulator, instalasi package dan check service.</figcaption>
+<img src="0__2016_05_24_time_12_45_14_382000_roi_00_canvas_v1.jpg.jpg">
 </figure>

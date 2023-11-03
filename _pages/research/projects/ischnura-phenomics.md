@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/damselflies
+permalink: /research/projects/ischnura-phenomics
 ---
 
 # Phenomics of sexual conflict in damselflies

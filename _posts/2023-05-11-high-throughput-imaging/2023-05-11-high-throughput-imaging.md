@@ -1,8 +1,11 @@
 ---
 title: High throughput imaging of aquatic invertebrates
-date: 2023-05-11
-tag-name: method imaging ecology evolution
 description: How to rapidly image live and dead invertebrates, such as isopods 
+date: 2023-05-11
+tags: 
+- methods
+- imaging 
+- ecology and evolution
 image: camera_stand2.jpg
 ---
  
