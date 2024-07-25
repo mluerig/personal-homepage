@@ -4,15 +4,15 @@
 
 - title: research
   url: /research/
-  external: false # set true if you using external link, see below
-
+  external: false
+  
 - title: publications
   url: /publications/
-  external: false # set true if you using external link, see below
+  external: false
 
 - title: resources
   url: /resources/
-  external: false # set true if you using external link, see below
+  external: false
 
 - title: posts
   url: /posts/
@@ -20,10 +20,5 @@
 
 - title: about
   url: /about/
-  external: false # set true if you using external link, see below
+  external: false
   
-
-# Example:
-# - title: github
-#   url: https://github.com/piharpi/jekyll-klise
-#   external: true

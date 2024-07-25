@@ -15,7 +15,7 @@ title: publications
 	<img src="/assets/images/social_media/research-gate.png">
 	</a>
 	<a href="/assets/files/moritz_luerig_cv.pdf" target="_blank">
-	<img src="/assets/images/social_media/cv.png">
+	<img src="/assets/images/social_media/cv.png" >
 	</a>
 </div>
 

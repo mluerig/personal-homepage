@@ -7,12 +7,13 @@ $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.85;
 
 // Font weight
-// $light-weight: 300; // uncomment if necessary
 $normal-weight: 400;
 $bold-weight: 700;
-// $black-weight: 900; // uncomment if necessary
+// Uncomment if necessary
+// $light-weight: 300;
+// $black-weight: 900;
 
-//Light Colors
+// Light Colors
 $text-base-color: #434648;
 $text-link-blue: #003fff;
 $text-link-blue-active: #0036c7;
@@ -35,7 +36,6 @@ $dark-smoke: #4a4d56;
 $dark-gray: #767f87;
 
 // Width of the content area
-
 $wide-size: 1100px;
 $narrow-size: 780px;
 
@@ -44,8 +44,8 @@ $spacing-full: 30px;
 $spacing-half: calc($spacing-full / 2);
 
 // State of devices
-$on-mobile: 780px;
-$on-tablet: 780px;
+$on-mobile: 600px;
+$on-tablet: 600px;
 $on-desktop: 1024px;
 $on-widescreen: 1024px;
 

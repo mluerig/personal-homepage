@@ -9,6 +9,6 @@ gem 'jekyll-postfiles', '~> 3.1'
 gem 'jemoji'
 gem "tzinfo"
 gem "tzinfo-data"
-gem "wdm", "~> 0.1.0"
 gem "webrick"
+gem 'listen', '~> 3.7'
 
