@@ -4,6 +4,10 @@ date: 2024-07-24
 tag-name: tech-tutorials
 description: Making interactive and pictogram-based figures in Python
 published: true
+tags: 
+- methods
+- coding
+- python
 ---
 
 # Background 
@@ -12,18 +16,41 @@ Interpreting phenotypic variation presented through scientific figures is often 
 
 ## Pictogram-based figure 
 
-In this approach the goal is to plot the pictograms directly into the plot panel, which can be useful if you want to see all the variation in your dataset at once so relationships of interest become visible, or if interactive figures are not an option (e.g., in publications). This is fairly straightforward using the matplotlib library 
+In this approach the goal is to plot the pictograms directly into the plot panel, which can be useful if you want to see all the variation in your dataset at once so relationships of interest become visible, or if interactive figures are not an option (e.g., in publications). This is fairly straightforward using the matplotlib's offsetbox module - see the result below:
 
-<div class="res-center">
-<div class="res-container">
-<img class="res-img" src="figure_pictograms.jpg">
-</div>
+ <div style="display: flex; justify-content: center;">
+	<div class="gallery-grid">
+		<div class="gallery-thumb">
+		<a href="scanned_image_resized.jpg" data-lightbox="about" data-title="The raw data: a scanned batch of isopods">
+		<img src="scanned_image_resized.jpg"/></a>
+		</div>
+	
+		<div class="gallery-thumb">
+		<a href="figure_isopods_pictograms.jpg" data-lightbox="about" data-title="The plot with a pictogram of each isopod plotted on top of the data points.">
+		<img src="figure_isopods_pictograms.jpg"/></a>
+		</div>
+	</div>
 </div>
 
-<script src="https://gist.github.com/mluerig/b4ea5c3744c3747c76f9400e2ea8b3f1.js"></script>
+
+Reproduce the figure with the following gist and by [downloading the materials]().
+
+<div class="gist-center">
+	<script src="https://gist.github.com/mluerig/b4ea5c3744c3747c76f9400e2ea8b3f1.js"></script>
+</div>
 
 ## Interactive figures
 
-{% include_relative figure_interactive.html %}
+The solution for producing interactive figures is a bit more involved, but not much. Here we use [bokeh, an extremely powerful library](https://docs.bokeh.org/en/latest/docs/gallery.html) for static and interactive plots in Python. we create a custom [java-based hover tool](https://docs.bokeh.org/en/latest/docs/user_guide/interaction/js_callbacks.html) to display trait information and the pictograms in a panel to the right when hovering over points on the scatter plot. The final layout, which combines the scatter plot and image display, is rendered and saved as an HTML file - give it a try by hovering over the points: 
 
+<div class="html-center">
+	<div class="html-align">
+		{% include_relative figure_isopods_interactive.html %}
+	</div>
+</div>
 
+Reproduce the figure with the following gist and by [downloading the materials]().
+
+<div class="gist-center">
+	<script src="https://gist.github.com/mluerig/efa169be9c6580538d9ad48ce7977c8c.js"></script>
+</div>

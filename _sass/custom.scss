@@ -165,6 +165,7 @@
   
   .res-img {
 	border-radius: 5px;
+	max-width: 600px; 
   }
   
   .res-caption {
@@ -248,52 +249,98 @@
 	}
   }
   
-  /* IMAGES */
-  
-  .gallery-grid {
-	display: flex; 
-	flex-direction: row;
-	flex-wrap: wrap; 
-	gap: 5px;
-	justify-content: flex-start;
-	width: 90%;
-	justify-content: center;
-  }
-  
-  .gallery-grid div {
-	flex: calc(85% / 3);
-  }
-  
-  .gallery-thumb {
-	display: grid;
-	padding: 5px;
-  }
-  
-  .gallery-thumb img {
-	margin-bottom: 0em;
-	max-width: 100%;
-	max-height: 100%;
-	border-radius: 6px;
-	object-fit: contain;
-  }
-  
-  .img-center {
-	display: flex;
-	flex-direction: column;
-	padding: 10px;
-	align-items: center;
-  }
-  
-  .img-center img {
-	border-radius: 5px;
-	width: 60%;
-  }
-  
-  .img-center .caption {
-	width: 60%;
-	text-align: center;
-	line-height: 1.2;
-	font-size: 80%;
-	padding: 5px;
-  }
-  
+/* IMAGES */
+
+.gallery-grid {
+display: flex; 
+flex-direction: row;
+flex-wrap: wrap; 
+gap: 5px;
+justify-content: flex-start;
+width: 90%;
+justify-content: center;
+}
+
+.gallery-grid div {
+flex: calc(85% / 3);
+}
+
+.gallery-thumb {
+display: grid;
+padding: 5px;
+}
+
+.gallery-thumb img {
+margin-bottom: 0em;
+max-width: 100%;
+max-height: 100%;
+border-radius: 6px;
+object-fit: contain;
+}
+
+.image-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+.image-center img {
+  border-radius: 5px;
+  width: 60%; /* Resize the image to 60% of its container */
+  display: block;
+}
+
+.image-center .caption {
+  width: 60%; /* Ensure the caption has the same width as the image */
+  text-align: center;
+  line-height: 1.2;
+  font-size: 80%;
+  padding: 5px;
+}
+
+/* GISTS */
+
+.gist-center {
+  display: flex;
+  justify-content: center;
+}
+
+.gist-data{
+  height: 500px; // Any height
+  overflow-y: visible;
+}
+
+.gist .blob-code {
+  padding: 0px 0px !important;
+  text-align: left;
+  background: rgba(0, 0, 0, 0);
+  border: 0;
+  width: 90%;
+}
+
+.gist {
+  width: 90%;
+  padding: 10px;
+}
+
+.gist .blob-code-inner { 
+  font-size: 10px !important; 
+}
+
+
+/* OTHER */
+
+.html-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  width: 100%;
+}
+
+.html-align {
+  width: 90%; /* Adjust the width as needed */
+  margin-left: auto; /* Pushes the element to the left */
+  margin-right: auto; /* Pushes the element to the left */
+}

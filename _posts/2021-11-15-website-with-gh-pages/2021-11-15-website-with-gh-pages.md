@@ -4,6 +4,9 @@ date: 2021-11-15
 tag-name: tech tutorials
 description: How to easily host and maintain personal or lab-websites using github pages and jekyll.
 image: gh-pages.png
+tags: 
+- methods
+- coding
 ---
 
 I like the concept of a personal website to feature scientific interests, resources, or other relevant information related to working as a scientist. What I don't like is spending a lot of time managing content or dealing with bloated and inflexible website management systems, like WordPress. With [github-pages](https://pages.github.com/){:target="_blank"}, a website and its content can be easily hosted and managed through a regular GitHub repository - just like the one you are looking at right now. Together with [jekyll](https://jekyllrb.com/){:target="_blank"}, a generator for static websites that uses [markdown](https://www.markdownguide.org/getting-started/){:target="_blank"}, content management becomes incredibly simple. Here is a short introduction to get a website up and running in a few minutes. 
