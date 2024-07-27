@@ -330,16 +330,17 @@ object-fit: contain;
 
 
 /* OTHER */
-
 .html-center {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 10px;
-  width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    width: 90%;
+    margin: 0 auto;
+	overflow: hidden;
 }
 
 .html-align {
-
-  margin-right: auto; /* Pushes the element to the left */
+    width: 70%;
+    display: flex;
+    justify-content: flex-start;
 }

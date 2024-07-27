@@ -12,9 +12,7 @@ tags:
 
 # Background 
 
-Interpreting phenotypic variation presented through scientific figures is often challenging, because the traits of interest are hidden behind data points. Specifically in scatterplots or biplots of Principal Component Analysis (PCA), which can be highly dimensional, the visual impression often remains abstract. Using pictograms instead of data points, or adding interactive elements can be a powerful way to increase the communicative value of a figure (especially if your study organism as charismatic as these Junonia butterflies). In this post I will show to accomplish either in Python, using matplotlib and the bokeh library. 
-
-
+Interpreting phenotypic variation presented through scientific figures is often challenging, because the traits of interest are hidden behind data points. Specifically in scatterplots or biplots of Principal Component Analysis (PCA), which can be highly dimensional, the visual impression often remains abstract. Using pictograms instead of data points, or adding interactive elements can be a powerful way to increase the communicative value of a figure (especially if your study organism as charismatic as these Junonia butterflies). Interactive figures that show organisms are becoming increasing feasible with the use of computer vision (automated extraction of meaningful information from images) to extract not only the phenotypic information, but the relevant pixels themself. In this post I will show to accomplish either in Python, using matplotlib and the bokeh library. 
 
 <div class="image-center" >
 	<a href="junonia_interactive_tsne.gif" data-lightbox="about">
@@ -29,7 +27,7 @@ Interpreting phenotypic variation presented through scientific figures is often 
 </div>
 ## Pictogram-based figure 
 
-In this approach the goal is to plot the pictograms directly into the plot panel, which can be useful if you want to see all the variation in your dataset at once so relationships of interest become visible (in this case, increasing pigmentation with body size in aquatic isopods), or if interactive figures are not an option (e.g., in publications). This is fairly straightforward using [matplotlib's offsetbox module](https://matplotlib.org/stable/api/offsetbox_api.html#matplotlib.offsetbox.OffsetImage) - see the result below:
+In this approach the goal is to plot the pictograms directly into the plot panel, which can be useful if you want to see all the variation in your dataset at once so relationships of interest become visible, or if interactive figures are not an option (e.g., in publications). This is fairly straightforward using [matplotlib's offsetbox module](https://matplotlib.org/stable/api/offsetbox_api.html#matplotlib.offsetbox.OffsetImage). Below is an example that uses the regions of interest (ROIs), i.e., isopod specimens from a scan image, to demonstrate how pigmentation increases with body size - see the result below, where the pictograms are plotted at their centroid on top of the data point:
 
  <div style="display: flex; justify-content: center;">
 	<div class="gallery-grid">
@@ -54,7 +52,7 @@ Reproduce the figure with the following gist and by [downloading the isopod data
 
 ## Interactive figures
 
-The solution for producing interactive figures is a bit more involved (but not too much). Here we use [bokeh, an extremely powerful library](https://docs.bokeh.org/en/latest/docs/gallery.html) for static and interactive plots in Python. bokeh allows you to add all sorts of tools (The important step is the creation of a custom [java-based hover tool](https://docs.bokeh.org/en/latest/docs/user_guide/interaction/js_callbacks.html) to display trait information and the pictograms in a panel to the right when hovering over points on the scatter plot. The final layout, which combines the scatter plot and image display, is rendered and saved as an HTML file - give it a try by hovering over the points: 
+The solution for producing interactive figures is a bit more involved (but not too much). Here we use [bokeh, an extremely powerful library](https://docs.bokeh.org/en/latest/docs/gallery.html) for static and interactive plots in Python. bokeh allows you to add all sorts of tools (e.g. box or lasso selection), but the most important one here  is the creation of a custom [java-based hover tool](https://docs.bokeh.org/en/latest/docs/user_guide/interaction/js_callbacks.html). This tool displays trait information and pictograms that have been extracted from the same scan image as above in a panel to the right when hovering over points on the scatter plot. The final layout, which combines the scatter plot and image display, is rendered and saved as an HTML file - give it a try by hovering over the points: 
 
 <div class="html-center">
 	<div class="html-align">
