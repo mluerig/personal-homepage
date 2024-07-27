@@ -12,7 +12,7 @@ tags:
 
 # Background 
 
-Interpreting phenotypic variation presented through scientific figures is often challenging, because the traits of interest are hidden behind data points. Specifically in scatterplots or biplots of Principal Component Analysis (PCA), which can be highly dimensional, the visual impression often remains abstract. Using pictograms instead of data points, or adding interactive elements can be a powerful way to increase the communicative value of a figure (especially if your study organism as charismatic as these Junonia butterflies). Interactive figures that show organisms are becoming increasing feasible with the use of computer vision (automated extraction of meaningful information from images) to extract not only the phenotypic information, but the relevant pixels themself. In this post I will show to accomplish either in Python, using matplotlib and the bokeh library. 
+Interpreting phenotypic variation presented through scientific figures is often challenging because the traits of interest are hidden behind data points. Specifically, in scatterplots or biplots of Principal Component Analysis (PCA), which can be very high-dimensional, the visual impression often remains abstract. Using pictograms in addition to data points, or adding interactive elements, can be a powerful way to increase the communicative value of a figure (especially if your study organism is as charismatic as these Junonia butterflies below). Interactive figures that show organisms are becoming increasingly feasible with the use of computer vision (automated extraction of meaningful information from images) to extract not only the phenotypic information but the relevant regions of interest (ROIs) themselves. In this post, I will show how to implement both approaches in Python, using the matplotlib and bokeh library
 
 <div class="image-center" >
 	<a href="junonia_interactive_tsne.gif" data-lightbox="about">
@@ -27,7 +27,7 @@ Interpreting phenotypic variation presented through scientific figures is often 
 </div>
 ## Pictogram-based figure 
 
-In this approach the goal is to plot the pictograms directly into the plot panel, which can be useful if you want to see all the variation in your dataset at once so relationships of interest become visible, or if interactive figures are not an option (e.g., in publications). This is fairly straightforward using [matplotlib's offsetbox module](https://matplotlib.org/stable/api/offsetbox_api.html#matplotlib.offsetbox.OffsetImage). Below is an example that uses the regions of interest (ROIs), i.e., isopod specimens from a scan image, to demonstrate how pigmentation increases with body size - see the result below, where the pictograms are plotted at their centroid on top of the data point:
+In this approach the goal is to plot the pictograms directly into the plot panel, which can be useful if you want to see all the variation in your dataset at once, so relationships of interest become visible, or if interactive figures are not an option (e.g., in publications). This is fairly straightforward using [matplotlib's offsetbox module](https://matplotlib.org/stable/api/offsetbox_api.html#matplotlib.offsetbox.OffsetImage). Below is an example that uses the ROis from a scan image to demonstrate how pigmentation increases with body size in isopods - see the result below, where the pictograms are plotted at their centroid on top of the data point:
 
  <div style="display: flex; justify-content: center;">
 	<div class="gallery-grid">
