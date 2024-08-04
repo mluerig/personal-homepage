@@ -1,9 +1,9 @@
 ---
 title: Best practices in standardizing scientific images
 date: 2023-01-01
-tag-name: method imaging ecology evolution
-description: This is a loose and definitively non-exhaustive list of dos and don'ts when creating standardized images 
-image: fig1.png
+tags: 
+- methods 
+- imaging 
 ---
  
 Here I have started collecting some very general advice on scientific imaging with the goal to create standardized images for phenotypic analysis. I am updating this loose and definitively non-exhaustive list as I go. 

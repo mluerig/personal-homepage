@@ -1,9 +1,9 @@
 ---
 title: Creating a small color and size reference card
 date: 2023-03-21
-tag-name: method imaging ecology evolution
-description: How to create a small, waterproof reference card to control for color, brightness and size in your images
-image: fig1.png
+tags:
+- methods 
+- imaging 
 ---
  
 A reference card in images can serve multiple purposes: on the one hand, a reference card is required to map size from pixels to real world units (e.g., from pixels to millimeters) and to calibrate color and brightness so that they become comparable across images and photographed scenes. On the other hand, including a reference card in every images will ensure that the images are comparable to each other - e.g., in the case of varying brightness or distance from camera and photographed specimen. In this post I will describe how I build small, waterproof reference cards that I used in many of my own studies, and that are increasingly used in other laboratories as well. The main idea is to take little parts of a commercial color reference card and a bit of millimeter paper, and laminate it to form a small, roughly stamp sized plastic card. 

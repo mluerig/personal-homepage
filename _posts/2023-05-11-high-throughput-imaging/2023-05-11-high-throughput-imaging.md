@@ -1,12 +1,9 @@
 ---
 title: High throughput imaging of aquatic invertebrates
-description: How to rapidly image live and dead invertebrates, such as isopods 
 date: 2023-05-11
 tags: 
 - methods
 - imaging 
-- ecology and evolution
-image: camera_stand2.jpg
 ---
  
 When working with organisms during field surveys or experiments we often need to take images of all used specimens for downstream analyses and phenotyping. Specifically when working with invertebrates, this can mean photographing hundreds or even thousands of specimens within a short period. Here I present the imaging methods I developed during my PhD to phenotype thousands of aquatic isopods (*Asellus aquaticus*) - both alive and preserved. I conceived these approaches for aquatic organisms, but I'm convinced they could be easily applied for terrestrial samples as well. 

@@ -1,9 +1,6 @@
 ---
 title: How to make interactive figures
 date: 2024-07-24
-tag-name: tech-tutorials
-description: Making interactive and pictogram-based figures in Python
-published: true
 tags: 
 - methods
 - coding

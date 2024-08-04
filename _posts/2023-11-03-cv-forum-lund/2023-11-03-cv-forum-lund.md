@@ -1,12 +1,10 @@
 ---
 title: Computer vision Forum in Lund (Sep. 18th - 22nd 2023) 
-description: "How we organized a small conference on computer vision in ecology and evolutionary biology"
 date: 2023-11-03
 tags: 
 - academia
 - meetings
 - computer vision
-image: "a-team.jpg"
 ---
 
 # Background 

@@ -3,7 +3,6 @@ title: posts archive
 permalink: /posts/
 layout: page
 excerpt: All posts.
-comments: false
 ---
 
 <div class="search-article">
@@ -27,3 +26,12 @@ comments: false
     </h3> 
   </article>
 {%- endfor -%}
+
+<script src="/assets/js/search.min.js"></script>
+<script>
+	var sjs = SimpleJekyllSearch({
+		searchInput: document.getElementById('search-input'),
+		resultsContainer: document.getElementById('search-results'),
+		json: '/assets/search.json',
+	});
+</script>
