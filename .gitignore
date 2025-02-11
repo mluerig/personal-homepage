@@ -1,7 +1,9 @@
 _site/
+node_modules
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+package-lock.json
 _drafts
 klise-*.gem
 Gemfile.lock
