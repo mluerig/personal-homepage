@@ -11,7 +11,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Moritz Lürig # author name
   email: moritz.luerig@gmail.com # email adress
-  avatar: /assets/images/moritz_luerig_portrait.jpg # change with your own avatar
+  avatar: /assets/images/photos/moritz_luerig_portrait.jpg # change with your own avatar
 
 # URL settings
 url: "https://www.luerig.net" #

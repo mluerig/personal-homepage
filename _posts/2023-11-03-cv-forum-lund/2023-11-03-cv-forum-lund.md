@@ -12,10 +12,9 @@ tags:
 Sometime in the spring of 2022 I had the idea of organizing a small meeting at Lund University (LU), where experienced developers of computer vision (CV) methods and practitioners from the biological domain would get together to talk to each other. This idea was motivated by several thoughts. On the one hand, at that point of time there were no dedicated CV-themed symposia or sessions at biological conferences, and it would certainly not have occurred to me to go pure CV meetings like CVPR or the like. On the other hand, already when we wrote our [review paper in 2020/2021](https://www.frontiersin.org/articles/10.3389/fevo.2021.642774/full), I realized that there is fundamental mismatch between what biologists think of CV and what applying CV on a day-to-day basis is actually about. So, overall, my thoughts were that we should have a bottom-up meeting where people can get together to chat about the topic, and listen to some exciting applications of CV that motivate to implement their workflow. There was already a critical mass of potential CV users inside our department (LU Biology is fairly large), so I thought it was just a matter of inviting some expert and getting each other to talk. It was not until receiving more funding when we decided to also open it to the broader public, and it turned into a small conference.
 
 
-<div class="image-center" >
+<div class="image-thumb" >
 	<a href="https://cv-eeb.netlify.app/assets/images/group.jpg" data-lightbox="about">
-	  <img style="width: 80%" src="https://cv-eeb.netlify.app/assets/images/group.jpg" alt="https://cv-eeb.netlify.app/assets/images/group.jpg">
-	</a>
+	<img style="width: 80%" src="https://cv-eeb.netlify.app/assets/images/group.jpg"></a>
 </div>
 
 
@@ -25,7 +24,7 @@ Here I want to briefly summarize how we went about to organize the [Internationa
 
 The very first thing I did was to ask other people whether they wanted to help me with organizing this event. This may sound trivial, but having a good team is really essential, even if, in the end, you will probably be doing most of the work. Together, we shuffled ideas and talked broadly about the scope, but also about details (room availability, timing of the event [e.g., to not overlap with teaching], catering), which turned out to be quite important in the end. 
 
-<div class="image-center" >
+<div class="image-thumb" >
 	<img src="a-team.jpg" >
 </div>
 

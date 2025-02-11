@@ -11,14 +11,14 @@ tags:
 
 Interpreting phenotypic variation presented through scientific figures is often challenging because the traits of interest are hidden behind data points. Specifically, in scatterplots or biplots of Principal Component Analysis (PCA), which can be very high-dimensional, the visual impression often remains abstract. Using pictograms in addition to data points, or adding interactive elements, can be a powerful way to increase the communicative value of a figure (especially if your study organism is as charismatic as these Junonia butterflies below). Interactive figures that show organisms are becoming increasingly feasible with the use of computer vision (automated extraction of meaningful information from images) to extract not only the phenotypic information but the relevant regions of interest (ROIs) themselves. In this post, I will show how to implement both approaches in Python, using the matplotlib and bokeh library
 
-<div class="image-center" >
-	<a href="junonia_interactive_tsne.gif" data-lightbox="about">
+<div class="image-thumb" >
+	<a href="junonia_interactive_tsne.gif" data-lightbox="gallery1">
 	  <img style="width: 80%" src="junonia_interactive_tsne.gif" alt="junonia_interactive_tsne.gif">
 	</a>
 </div>
 
-<div class="image-center" >
-	<a href="junonia_pictograms_tsne.jpg" data-lightbox="about">
+<div class="image-thumb" >
+	<a href="junonia_pictograms_tsne.jpg" data-lightbox="gallery1">
 	  <img style="width: 80%" src="junonia_pictograms_tsne.jpg" alt="junonia_pictograms_tsne.jpg">
 	</a>
 </div>
@@ -29,12 +29,12 @@ In this approach the goal is to plot the pictograms directly into the plot panel
  <div style="display: flex; justify-content: center;">
 	<div class="gallery-grid">
 		<div class="gallery-thumb">
-		<a href="scanned_image_resized.jpg" data-lightbox="about" data-title="The raw data: a scanned batch of isopods">
+		<a href="scanned_image_resized.jpg" data-lightbox="gallery2" data-title="The raw data: a scanned batch of isopods">
 		<img src="scanned_image_resized.jpg"/></a>
 		</div>
 	
 		<div class="gallery-thumb">
-		<a href="figure_isopods_pictograms.jpg" data-lightbox="about" data-title="The plot with a pictogram of each isopod plotted on top of the data points.">
+		<a href="figure_isopods_pictograms.jpg" data-lightbox="gallery2" data-title="The plot with a pictogram of each isopod plotted on top of the data points.">
 		<img src="figure_isopods_pictograms.jpg"/></a>
 		</div>
 	</div>

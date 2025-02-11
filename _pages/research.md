@@ -4,83 +4,147 @@ permalink: /research/
 # title: research
 ---
 
-<div style="display: flex; justify-content: center;">
+<div class="gallery-grid">
 
-	<div class="gallery-grid">
+  <div class="image-thumb" style="max-width:30%">
+    <a data-src="/assets/images/photos/ml-07.jpg"
+       data-lightbox="gallery">
+      <img>
+    </a>
+    <div class="caption"></div> 
+  </div>
 
-		<div class="gallery-thumb" style="max-width:30%">
-		<a href="/assets/images/about/ml-00.jpg" data-lightbox="about"><img src="/assets/images/about/ml-00.jpg" alt=""/></a>
-		</div>
-		
-	</div>
+  <div class="image-thumb" style="max-width:30%">
+    <a data-src="/assets/images/photos/ml-08.jpg"
+       data-lightbox="gallery">
+      <img>
+    </a>
+    <div class="caption"></div>
+  </div>
 
 </div>
 
-## my research goals
 
-As an evolutionary ecologist, my goal is to improve our quantitative understanding of the origin and maintenance of phenotypic diversity across various biological levels. My work not only addresses fundamental questions in phenotypic evolution, but also advances methodological frameworks for high-throughput phenotyping. Specifically, I use and develop computational tools and pipelines that make use of artificial intelligence (AI) and computer vision (CV) to extract high-dimensional phenotypic data. I have applied these methods across diverse biological systems, including crustaceans, insects, and aquatic plants, using both field and laboratory settings as well as natural history collections to study ecological and evolutionary processes. 
+# my research goals
 
-## projects
+My main research objective is to understand the origin and maintenance of phenotypic diversity across different levels of biological organization (i.e., within and among species). Specifically, I aim to develop a more quantitative understanding of **(i) phenotypic differentiation among major lineages**, **(ii) the origin and persistence of color polymorphisms**, and **(iii) phenotype-environment relationships in natural populations**. To achieve these goals, I develop methodological frameworks for high-throughput phenotyping, primarily using automated image analysis (computer vision) and artificial intelligence (e.g., image encoders, vision-language models, large language models). I have applied these methods across a range of biological systems (e.g., insects, crustaceans, plants) using field surveys and laboratory studies, as well as natural history collections.
 
-> ONGOING
+# current work
 
-<div class="container-list">
 
-	<a href="/research/projects/ischnura-phenomics">
-		<div class="container-item">
-			<img src="/assets/images/thumbs/damselflies.jpg" />
-			<h3>Phenomics of sexual conflict in <i>Ischnura elegans</i></h3>
-			<p>Here I am investigating correlational selection on colouration and morphology in a female limited sexual polymorphism of the common bluetail damselfly (<i>Ischnura elegans</i>) in Southern Sweden.</p>
-		</div>
-	</a>
-	
-	<a href="/research/isopods/">
-		<div class="container-item">
-			<img src="/assets/images/thumbs/isopods.jpg" />
-			<h3>Isopod pigmentation: <br> development, plasticity, crypsis </h3>
-			<p>In a series of in- and outdoor experiments I explore how selection and diet-based developmental plasticity affects pigmentation and body size in the freshwater isopod <i>Asellus aquaticus</i>.</p>
-		</div>
-	</a>
+# past work
 
+<details open>
+<summary>Pigmentation in Freshwater Isopods: A versatile model system to study evolution and development</summary>
+  <div class="details-content">
+	The pigmentation of the freshwater isopod *Asellus aquaticus* is thought to be shaped visual predation along a gradient of background darkness. In a mesocosm experiment where me manipulated background darkness and predation pressure, we found that fish predation reduced isopod density, but pigmentation was primarily influenced by macrophyte presence, suggesting an environmental rather than predator-driven effect. A subsequent laboratory experiment revealed that pigmentation responds to dietary protein levels, with higher protein intake accelerating pigmentation development but increasing juvenile mortality under rapid growth. These findings indicate that dietary-driven plasticity can shape phenotypic variation and survival outcomes, even in the absence of predators. Together, these results highlight the complex interplay between genetic background, environmental conditions, and life-history traits in shaping isopod pigmentation.
+
+	For further insights into A. aquaticus as a model system, see Lafuente et al. (2021). More on the isopod research community at Asellus.org.
+  </div>
+<br>
+
+<div class="gallery-grid">
+  <div class="image-thumb" >
+		<a data-src="/assets/images/figures/asellus01.jpg"
+		data-lightbox="isopods"
+		data-title="Variation in habitat background darkness in Lake Lucerne at Eawag Kastanienbaum ">
+		<img>
+		</a>
+		<div class="caption"></div> 
+  </div>
+
+  <div class="image-thumb" >
+		<a data-src="/assets/images/figures/asellus02.jpg"
+		data-lightbox="isopods"
+		data-title="Variation in pigmentation in freshwater isopods is thought to be an adaptive response to predation along a gradient of background darkness.">
+		<img>
+		</a>
+		<div class="caption"></div>
+  </div>
+
+  <div class="image-thumb" >
+		<a data-src="/assets/images/figures/asellus03.jpg"
+		data-lightbox="isopods"
+		data-title="Mesocosm experiment to manipulate background darkness and predation pressure.">
+		<img>
+		</a>
+		<div class="caption"></div> 
+  </div>
+
+  <div class="image-thumb" >
+		<a data-src="/assets/images/figures/asellus04.jpg"
+		data-lightbox="isopods"
+		data-title="Imaging setup for computer-vision-based quantification of pigmentation in isopods">
+		<img>
+		</a>
+    	<div class="caption"></div> 
+  </div>
+
+  <div class="image-thumb" >
+		<a data-src="/assets/images/figures/asellus05.jpg"
+		data-lightbox="isopods"
+		data-title="Growth-curve: from juvenile isopods to sexual maturity in 12 weeks.">
+		<img>
+		</a>
+		<div class="caption"></div> 
+  </div>
 </div>
 
 <br>
+<ul>
+  <li>
+	<b>Lürig, M.D.</b>, Narwani, A., Penson, H., Wehrli, B., Spaak, P., and Matthews, B. (2021). Non-additive effects of foundation species determine the response of aquatic ecosystems to nutrient perturbation. Ecology 102(7), e03371. 
+	<a id="link" href="https://doi.org/10.1002/ecy.3371" >[DOI]</a>
+	<a id="link" href="Lürig et al. 2021 - Ecology_accepted.pdf" > [PDF]</a>
+  </li>
+  <li>
+	<b>Lürig, M.D.</b>, Best, R.J., Dakos, V., and Matthews, B. (2020). Submerged macrophytes affect the temporal variability of aquatic ecosystems. Freshwater Biology 66(3), 421-435.
+	<a id="link" href="https://doi.org/10.1111/fwb.13648" >[DOI]</a>
+	<a id="link" href="{{ site.data.links.gh_assets_files }}/papers/Lürig et al. 2021 - FWB_accepted.pdf" > [PDF]</a>	
+  </li>
+</ul>
+</details>
+
+
+<details>
+<summary>Foundation Species and the Stability of Aquatic Ecosystems</summary>
+  <div class="details-content">
+	Foundation species shape ecosystem structure and function, but their effects can vary across timescales and in response to environmental change. Using a series of outdoor mesocosm experiments and high-frequency multi-parameter sensor technology we found that macrophytes reduce phytoplankton biomass, increase DOM accumulation, and influence ecosystem variability over time. However, when co-occurring with mussels, their effects on nutrient dynamics became less predictable, leading to a counterintuitive increase in phytoplankton biomass. These results show that while foundation species can stabilize ecosystems, their interactions may generate unexpected nonlinear responses to environmental perturbations.
+  </div>
 <br>
-> COMPLETED
-
-<div class="container-list">
-	
-	<a href="/research/ecosystems/">
-		<div class="container-item">
-			<img src="/assets/images/thumbs/ecosystems.jpg" />
-			<h3>Determinants of temporal variation in aquatic ecosystems</h3>
-			<p> In a series of large scale outdoor experiments we quantified ecosystem effects in various ecological contexts using cutting-edge autonomous high frequency sensor technology.</p>
-		</div>
-	</a>
-
-	<a href="/research/cichlids/">
-		<div class="container-item">
-			<img src="/assets/images/thumbs/cichlids.jpg" />
-			<h3>Trophic diversification of Lake Victoria Cichlids</h3>
-			<p> Reconstructing the evolutionary history of trophic diversification in Lake Victoria cichlids by mapping fossil teeth onto teeth from contemporary trophic guilds using 2D and 3D images.</p>
-		</div>
-	</a>
-
-	<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.02932" target="_blank">
-		<div class="container-item">
-			<img src="/assets/images/thumbs/seagrass.jpg" />
-			<h3>Seagrass mesograzer microhabitat choice under predation pressure</h3>
-			
-			<p>My master's thesis on drivers of community composition in seagrass mesograzers, where microhabitat choices remain consisten across multiple predator and competitor contexts</p>
-		</div>
-	</a>
-
-	<a href="https://www.sciencedirect.com/science/article/abs/pii/S1385110115000076?via=ihub">
-		<div class="container-item">
-			<img src="/assets/images/thumbs/corals.jpg" />
-			<h3>Ecophysiology of tropical corals experiencing multiple stressors</h3>
-			<p>Although it is recognized that temperature and the carbonate system of a coral reef can change rapidly and with great amplitude, little is known about how this may affect the metabolism and productivity of stone corals. </p>
-		</div>
-	</a>
-	
+<div class="gallery-grid">
+  <div class="image-thumb" >
+    <a data-src="/assets/images/figures/sondes01.jpg"
+       data-lightbox="gallery"
+	   data-title="High frequency multi-parameter sondes (WTW/YSI) during calibration.">
+      <img>
+    </a>
+    <div class="caption"></div> 
+  </div>
+  <div class="image-thumb" >
+    <a data-src="/assets/images/figures/ponds01.jpg"
+       data-lightbox="gallery"
+	   data-title="Outdoor experimental pond ecosystems (20x 15000L) at Eawag Dübendorf.">
+      <img>
+    </a>
+    <div class="caption"></div>
+  </div>
 </div>
+<br>
+<ul>
+  <li>
+	<b>Lürig, M.D.</b>, Narwani, A., Penson, H., Wehrli, B., Spaak, P., and Matthews, B. (2021). Non-additive effects of foundation species determine the response of aquatic ecosystems to nutrient perturbation. Ecology 102(7), e03371. 
+	<a id="link" href="https://doi.org/10.1002/ecy.3371" >[DOI]</a>
+	<a id="link" href="Lürig et al. 2021 - Ecology_accepted.pdf" > [PDF]</a>
+  </li>
+  <li>
+	<b>Lürig, M.D.</b>, Best, R.J., Dakos, V., and Matthews, B. (2020). Submerged macrophytes affect the temporal variability of aquatic ecosystems. Freshwater Biology 66(3), 421-435.
+	<a id="link" href="https://doi.org/10.1111/fwb.13648" >[DOI]</a>
+	<a id="link" href="{{ site.data.links.gh_assets_files }}/papers/Lürig et al. 2021 - FWB_accepted.pdf" > [PDF]</a>	
+  </li>
+</ul>
+</details>
+
+
+
+

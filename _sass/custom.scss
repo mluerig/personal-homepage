@@ -1,3 +1,23 @@
+/* GENERAL LAYOUT */
+
+body .navbar {
+  background-color: rgb(255,255,255);
+  }
+  
+  body[data-theme="dark"] {
+  
+    .navbar {
+      background-color: rgb(19,20,24);
+    }
+    
+    .page-content {
+      .nolink {
+      color: $dark-text-base-color;
+      }
+    }
+    }
+  
+
 /* AUTOR AREA */
 
 .author {
@@ -35,59 +55,6 @@ text-decoration-color: inherit;
 }
 }
 
-/* RESEARCH AREA CONTAINER LIST */
-
-.container-list {
-display: flex;
-flex-direction: row;
-flex-wrap: wrap;
-justify-content: center;
-align-items: flex-start;
-align-content: center;
-gap: 15px;
-padding-top: 20px;
-}
-
-.container-list a {
-color: $text-base-color;
-}
-
-.container-item {
-display: flex;
-flex: calc(100% / 2);
-flex-direction: column;
-background-color: #C7C7C7;
-border: 5px solid #C7C7C7;
-padding: 10px;
-border-radius: 5px;
-max-width: 300px;
-cursor: pointer;
-overflow: hidden;
-position: relative;
-}
-
-.container-item:hover {
-background-color: #D4D4D4;
-border: 5px solid #D4D4D4;
-}
-
-.container-item:hover h3 {
-color: $text-link-blue-active;
-}
-
-.container-item img {
-max-width: 120%;
-max-height: 120%;
-vertical-align: middle;
-margin: -10px;
-}
-
-.container-item h3 {
-margin-top: 20px;
-margin-bottom: -5px;
-border: 0px;
-}
-
 a {
 font-weight: bold; 
 }
@@ -98,41 +65,6 @@ font-weight: bold;
 }
 }
 
-/* DARK MODE SETTINGS */
-
-body[data-theme="dark"] {
-.container-list a {
-  color: $dark-text-base-color;
-}
-
-.container-item {
-  background-color: #2A2A2A;
-  border: 5px solid #2A2A2A;
-}
-
-.container-item:hover {
-  background-color: #3C3C3C;
-  border: 5px solid #3C3C3C;
-} 
-
-.container-item:hover h3 {
-  color: $dark-text-link-blue-active;
-}
-
-.navbar {
-  background-color: rgb(19,20,24);
-}
-
-.page-content {
-  .nolink {
-	color: $dark-text-base-color;
-  }
-}
-}
-
-body .navbar {
-background-color: rgb(255,255,255);
-}
 
 /* POINTER */
 
@@ -147,31 +79,6 @@ align-items: center;
 font-weight: bold; 
 gap: 10px;
 min-width: 10px;
-}
-
-/* Figures in research area */
-
-.res-center {
-display: flex;
-justify-content: center;
-}
-
-.res-container {
-display: flex;
-flex-direction: column;
-width: 500px;
-margin-bottom: 10px;
-}
-
-.res-img {
-border-radius: 5px;
-max-width: 600px; 
-}
-
-.res-caption {
-text-align: justify;
-font-size: 12px;
-padding-top: 10px;
 }
 
 /* MAKE NAVBAR STICKY AND OPAQUE */
@@ -246,52 +153,40 @@ font-size: 1em;
 /* IMAGES */
 
 .gallery-grid {
-display: flex; 
-flex-direction: row;
-flex-wrap: wrap; 
-gap: 5px;
-justify-content: flex-start;
-width: 90%;
-justify-content: center;
+  display: flex;
+  flex-wrap: wrap; 
+  gap: 5px;
+  justify-content: center;
+  width: 90%;
+  margin: 0 auto; /* Centers the gallery within the parent */
 }
 
 .gallery-grid div {
-flex: calc(85% / 3);
+  flex: 1 1 calc(85% / 3); /* Ensures flexibility */
 }
 
-.gallery-thumb {
-display: grid;
-padding: 5px;
+.image-thumb {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5px; /* Optional for spacing */
 }
 
-.gallery-thumb img {
-margin-bottom: 0em;
-max-width: 100%;
-max-height: 100%;
-border-radius: 6px;
-object-fit: contain;
+.image-thumb img {
+  object-fit: contain;
+  border-radius: 6px;
+  max-width: 100%;
+  max-height: 100%;
 }
 
-.image-center {
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 10px;
+.caption {
+  width: 80%;
+  text-align: center;
+  line-height: 1.2;
+  font-size: 80%;
+  padding: 5px;
 }
 
-.image-center img {
-border-radius: 5px;
-width: 60%; /* Resize the image to 60% of its container */
-display: block;
-}
-
-.image-center .caption {
-width: 60%; /* Ensure the caption has the same width as the image */
-text-align: center;
-line-height: 1.2;
-font-size: 80%;
-padding: 5px;
-}
 
 /* GISTS */
 
@@ -338,3 +233,47 @@ width: 70%;
 display: flex;
 justify-content: flex-start;
 }
+
+/* COLLAPSIBLE SECTIONS */
+
+details {
+  margin: 10px 0;
+  padding: 0 10px 0 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+}
+
+.details-content {
+  padding: 10px; // Padding only for the text inside
+  line-height: 1.5;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: bold;
+  padding: 5px;
+}
+
+details:hover {
+  background: #e0e0e0;
+}
+summary:hover {
+  color: $text-link-blue-active;
+  background: #e0e0e0;
+}
+
+/* Dark Mode Styling */
+
+body[data-theme="dark"] {
+summary:hover {
+  color: $dark-text-link-blue-active;
+  background-color: #3C3C3C;
+}
+
+details:hover {
+  background-color: #3C3C3C;
+}
+
+}
+
+

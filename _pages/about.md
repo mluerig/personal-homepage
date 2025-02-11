@@ -22,37 +22,34 @@ title: about me
 <br>
 
 
-<div style="display: flex; justify-content: center;">
+<div class="gallery-grid">
 
-	<div class="gallery-grid">
+	<div class="image-thumb">
+	<a href="/assets/images/photos/ml-01.jpg" data-lightbox="about"><img src="/assets/images/photos/ml-01.jpg" alt=""/></a>
+	</div>
 
-		<div class="gallery-thumb">
-		<a href="/assets/images/about/ml-01.jpg" data-lightbox="about"><img src="/assets/images/about/ml-01.jpg" alt=""/></a>
-		</div>
+	<div class="image-thumb">
+	<a href="/assets/images/photos/ml-02.jpg" data-lightbox="about"><img src="/assets/images/photos/ml-02.jpg" alt=""/></a>
+	</div>
+
+	<div class="image-thumb">
+	<a href="/assets/images/photos/ml-03.jpg" data-lightbox="about"><img src="/assets/images/photos/ml-03.jpg" alt=""/></a>
+	</div>
 	
-		<div class="gallery-thumb">
-		<a href="/assets/images/about/ml-02.jpg" data-lightbox="about"><img src="/assets/images/about/ml-02.jpg" alt=""/></a>
-		</div>
+	<div class="image-thumb">
+	<a href="/assets/images/photos/ml-04.jpg" data-lightbox="about"><img src="/assets/images/photos/ml-04.jpg" alt=""/></a>
+	</div>
+	
+	<div class="image-thumb">
+	<a href="/assets/images/photos/ml-05.jpg" data-lightbox="about"><img src="/assets/images/photos/ml-05.jpg" alt=""/></a>
+	</div>
 
-		<div class="gallery-thumb">
-		<a href="/assets/images/about/ml-03.jpg" data-lightbox="about"><img src="/assets/images/about/ml-03.jpg" alt=""/></a>
-		</div>
-		
-		<div class="gallery-thumb">
-		<a href="/assets/images/about/ml-04.jpg" data-lightbox="about"><img src="/assets/images/about/ml-04.jpg" alt=""/></a>
-		</div>
-		
-		<div class="gallery-thumb">
-		<a href="/assets/images/about/ml-05.jpg" data-lightbox="about"><img src="/assets/images/about/ml-05.jpg" alt=""/></a>
-		</div>
-
-		<div class="gallery-thumb">
-		<a href="/assets/images/about/ml-06.jpg" data-lightbox="about"><img src="/assets/images/about/ml-06.jpg" alt=""/></a>
-		</div>
-
+	<div class="image-thumb">
+	<a href="/assets/images/photos/ml-06.jpg" data-lightbox="about"><img src="/assets/images/photos/ml-06.jpg" alt=""/></a>
 	</div>
 
 </div>
+
 
 <br>
 
