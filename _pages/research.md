@@ -25,22 +25,64 @@ permalink: /research/
 </div>
 
 
-# my research goals
+# research goals
 
 My main research objective is to understand the origin and maintenance of phenotypic diversity across different levels of biological organization (i.e., within and among species). Specifically, I aim to develop a more quantitative understanding of **(i) phenotypic differentiation among major lineages**, **(ii) the origin and persistence of color polymorphisms**, and **(iii) phenotype-environment relationships in natural populations**. To achieve these goals, I develop methodological frameworks for high-throughput phenotyping, primarily using automated image analysis (computer vision) and artificial intelligence (e.g., image encoders, vision-language models, large language models). I have applied these methods across a range of biological systems (e.g., insects, crustaceans, plants) using field surveys and laboratory studies, as well as natural history collections.
 
-# current work
-
-
-# past work
+# ongoing work
 
 <details open>
-<summary>Pigmentation in Freshwater Isopods: A versatile model system to study evolution and development</summary>
-  <div class="details-content">
-	The pigmentation of the freshwater isopod *Asellus aquaticus* is thought to be shaped visual predation along a gradient of background darkness. In a mesocosm experiment where me manipulated background darkness and predation pressure, we found that fish predation reduced isopod density, but pigmentation was primarily influenced by macrophyte presence, suggesting an environmental rather than predator-driven effect. A subsequent laboratory experiment revealed that pigmentation responds to dietary protein levels, with higher protein intake accelerating pigmentation development but increasing juvenile mortality under rapid growth. These findings indicate that dietary-driven plasticity can shape phenotypic variation and survival outcomes, even in the absence of predators. Together, these results highlight the complex interplay between genetic background, environmental conditions, and life-history traits in shaping isopod pigmentation.
+<summary>Evolution of color patterning in Nymphalid butterflies</summary>
+<div class="details-content">
+More details soon...
+</div>
+<br>
 
-	For further insights into A. aquaticus as a model system, see Lafuente et al. (2021). More on the isopod research community at Asellus.org.
-  </div>
+<div class="gallery-grid">
+
+</div>
+
+
+</details>
+
+<details open>
+<summary>Phenomics of color polymorphisms</summary>
+  <div class="details-content">
+More details soon...
+</div>
+<br>
+
+<div class="gallery-grid">
+
+</div>
+
+</details>
+
+<details open>
+<summary>The phenomicist's toolkit: development of modern tools for phenotyping</summary>
+<div class="details-content">
+More details soon...
+</div>
+<br>
+
+<div class="gallery-grid">
+
+</div>
+
+</details>
+
+
+# previous work
+
+<details>
+<summary>Pigmentation in Freshwater Isopods (<i>Asellus aquaticus</i>)</summary>
+  <div class="details-content">
+
+	The pigmentation of the freshwater isopod <i>Asellus aquaticus</i> is thought to be shaped visual predation along a gradient of background darkness. In a mesocosm experiment where me manipulated background darkness and predation pressure, we found that fish predation reduced isopod density, but pigmentation was primarily influenced by macrophyte presence, suggesting an environmental rather than predator-driven effect. A subsequent laboratory experiment revealed that pigmentation responds to dietary protein levels, with higher protein intake accelerating pigmentation development but increasing juvenile mortality under rapid growth. These findings indicate that dietary-driven plasticity can shape phenotypic variation and survival outcomes, even in the absence of predators. Together, these results highlight the complex interplay between genetic background, environmental conditions, and life-history traits in shaping isopod pigmentation.<br>
+
+  <i>Asellus aquaticus</i> is becoming a versatile study system to investigate long-standing questions at the interface of ecology, evolution, and development. Findings from this and other work on the relevance of isopod pigmentation and development are summarized in a review article on <i>A. aquaticus</i> (Lafuente et al. 2021). 
+
+</div>
 <br>
 
 <div class="gallery-grid">
@@ -102,9 +144,14 @@ My main research objective is to understand the origin and maintenance of phenot
 	<a id="link" href="https://doi.org/10.1111/fwb.13648" >[DOI]</a>
 	<a id="link" href="{{ site.data.links.gh_assets_files }}/papers/Lürig et al. 2021 - FWB_accepted.pdf" > [PDF]</a>	
   </li>
+  <li>
+	Lafuente, E., <b>Lürig, M.D.</b>, Rövekamp, M., Matthews, B., Buser, C., Vorburger, C., & Räsänen, K. (2021). Building on 150 Years of Knowledge: The Freshwater Isopod Asellus aquaticus as an Integrative Eco-Evolutionary Model System. Frontiers in Ecology and Evolution, 9. 
+  <img src="/assets/images/open_access_logo.png" style="height: 1.2em; padding: 3px; margin-top: -2px"> 
+  <a id="link" href="http://dx.doi.org/10.3389/fevo.2021.748212" target="_blank"> [DOI]</a>
+  <a id="link" href="{{ site.data.links.gh_assets_files }}/papers/Lafuente et al. 2021 - Building on 150 Years of Knowledge - The Freshwat ... pod Asellus aquaticus as an Integrative Eco-Evolutionary Model System.pdf" > [PDF]</a>
+  </li>
 </ul>
 </details>
-
 
 <details>
 <summary>Foundation Species and the Stability of Aquatic Ecosystems</summary>
