@@ -83,16 +83,15 @@ min-width: 10px;
 
 .navbar {
   display: flex;
-  align-items: center;
-  max-width: $narrow-size;
-  margin: 0 auto;
-  padding: 15px 20px;
+  margin: 5px;
+  padding: 0px;
   background-color: rgb(19,20,24);
   border-bottom: 1px solid $light;
   width: 100%;
 
   a#mode {
     margin-right: auto; // Aligns mode switch to the far left
+    margin-left: 0px;
   }
 
   .menu {
@@ -106,7 +105,6 @@ min-width: 10px;
     margin: 0 10px;
   }
 }
-
 
 .navbar-center {
 max-width: $narrow-size;
