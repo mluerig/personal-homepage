@@ -21,11 +21,9 @@ This is more of a proof of principle, illustrating where the website content is 
 
 2. Go to Settings > Pages > Choose a theme - I chose "minimal". Click the "Select theme" button".
 
-	<div class="res-center">
-	<div class="res-container">
-	<img class="res-img" src="gh-pages.png">
-	</div>
-	</div>
+	<div class="image-thumb" >
+	<a data-src="gh-pages.png" data-lightbox="post" data-title=""><img></a>
+	</div> 
 
 3. Add some more meaningful text to replace the default readme - I added this:
 
@@ -83,11 +81,9 @@ This might be the most convenient method for most people. Here, an existing jeky
 	
 	[https://mluerig.github.io/my-demo-homepage-2/](https://mluerig.github.io/my-demo-homepage-2/)
 
-	<div class="res-center">
-	<div class="res-container">
-	<img class="res-img" src="demo-hp-2.png">
-	</div>
-	</div>
+	<div class="image-thumb" >
+	<a data-src="demo-hp-2.png" data-lightbox="post" data-title=""><img></a>
+	</div> 
 
 # The involved way: installing jekyll on your local machine
 
@@ -99,11 +95,9 @@ This is assuming that you have already forked or made your own gh-pages repo to 
 	- update gems, Ruby's package management system: `gem update`
 	- GCC need to be installed and your system. On Windows, if you install Ruby through the ruby installer, GCC will become available through the MSYS2 devkit installed after the Ruby installation - simply hit "Enter" when you see this: 
 	
-	<div class="res-center">
-	<div class="res-container">
-	<img class="res-img" src="msys2_win.png">
-	</div>
-	</div>
+	<div class="image-thumb" >
+	<a data-src="msys2_win.png" data-lightbox="post" data-title=""><img></a>
+	</div> 
 	
 	- Make needs to be installed on your system. On Windows, you can use chocolatey ([install first](https://chocolatey.org/install){:target="_blank"}): `choco install make`
 	- test installations: `jekyll -v`, `ruby -v`, `make -v`

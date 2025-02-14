@@ -7,23 +7,16 @@ tags:
 ---
  
 When working with organisms during field surveys or experiments we often need to take images of all used specimens for downstream analyses and phenotyping. Specifically when working with invertebrates, this can mean photographing hundreds or even thousands of specimens within a short period. Here I present the imaging methods I developed during my PhD to phenotype thousands of aquatic isopods (*Asellus aquaticus*) - both alive and preserved. I conceived these approaches for aquatic organisms, but I'm convinced they could be easily applied for terrestrial samples as well. 
- 
- <div style="display: flex; justify-content: center;">
-	<div class="gallery-grid">
-		<div class="gallery-thumb">
-		<a href="photographed1.jpg" data-lightbox="about" data-title="Asellus aquaticus (live specimen), photographed from a camera stand using a macro-lens (image downsized for website).">
-		<img src="photographed1.jpg"/></a>
-		</div>
-	
-		<div class="gallery-thumb">
-		<a href="photographed2.jpg" data-lightbox="about" data-title="Asellus aquaticus (live specimens), photographed from a camera stand using the default lens (image downsized for website).">
-		<img src="photographed2.jpg"/></a>
-		</div>
 
-		<div class="gallery-thumb">
-		<a href="scanned1.jpg" data-lightbox="about" data-title="Asellus aquaticus (preserved specimens), scanned with a modified flatbed scanner (image downsized for website).">
-		<img src="scanned1.jpg"/></a>
-		</div>
+<div class="gallery-grid">
+	<div class="image-thumb">
+	<a data-src="photographed1.jpg" data-lightbox="post" data-title="Asellus aquaticus (live specimen), photographed from a camera stand using a macro-lens (image downsized for website)."><img></a>
+	</div>
+	<div class="image-thumb">
+	<a data-src="photographed2.jpg" data-lightbox="post" data-title="Asellus aquaticus (live specimens), photographed from a camera stand using the default lens (image downsized for website)."><img></a>
+	</div>
+	<div class="image-thumb">
+	<a data-src="scanned1.jpg" data-lightbox="post" data-title="Asellus aquaticus (preserved specimens), scanned with a modified flatbed scanner (image downsized for website)."><img></a>
 	</div>
 </div>
  
@@ -43,31 +36,24 @@ What you need:
 - computer for camera control
 - light diffusors (optional) 
 
-<div style="display: flex; justify-content: center;">
-	<div class="gallery-grid">
-		<div class="gallery-thumb">
-		<a href="camera_stand1.jpg" data-lightbox="about"><img src="camera_stand1.jpg" alt=""/></a>
-		</div>
-	
-		<div class="gallery-thumb">
-		<a href="camera_stand2.jpg" data-lightbox="about"><img src="camera_stand2.jpg" alt=""/></a>
-		</div>
-
-		<div class="gallery-thumb">
-		<a href="camera_stand3.jpg" data-lightbox="about"><img src="camera_stand3.jpg" alt=""/></a>
-		</div>
-		
-		<div class="gallery-thumb">
-		<a href="camera_stand4.jpg" data-lightbox="about"><img src="camera_stand4.jpg" alt=""/></a>
-		</div>
-	
-		<div class="gallery-thumb">
-		<a href="camera_stand5.jpg" data-lightbox="about"><img src="camera_stand5.jpg" alt=""/></a>
-		</div>
-
-		<div class="gallery-thumb">
-		<a href="camera_stand6.jpg" data-lightbox="about"><img src="camera_stand6.jpg" alt=""/></a>
-		</div>
+<div class="gallery-grid">
+	<div class="image-thumb">
+	<a data-src="camera_stand1.jpg" data-lightbox="post" data-title=""><img></a>
+	</div>
+	<div class="image-thumb">
+	<a data-src="camera_stand2.jpg" data-lightbox="post" data-title=""><img></a>
+	</div>
+	<div class="image-thumb">
+	<a data-src="camera_stand3.jpg" data-lightbox="post" data-title=""><img></a>
+	</div>
+	<div class="image-thumb">
+	<a data-src="camera_stand4.jpg" data-lightbox="post" data-title=""><img></a>
+	</div>
+	<div class="image-thumb">
+	<a data-src="camera_stand5.jpg" data-lightbox="post" data-title=""><img></a>
+	</div>
+	<div class="image-thumb">
+	<a data-src="camera_stand6.jpg" data-lightbox="post" data-title=""><img></a>
 	</div>
 </div>
 
@@ -84,16 +70,14 @@ What you need:
 
 <div style="display: flex; justify-content: center;">
 	<div class="gallery-grid">
-		<div class="gallery-thumb">
-		<a href="scanner1.jpg" data-lightbox="about"><img src="scanner1.jpg" alt=""/></a>
+		<div class="image-thumb">
+		<a href="scanner1.jpg" data-lightbox="post"><img src="scanner1.jpg" alt=""/></a>
 		</div>
-	
-		<div class="gallery-thumb">
-		<a href="scanner2.jpg" data-lightbox="about"><img src="scanner2.jpg" alt=""/></a>
+		<div class="image-thumb">
+		<a href="scanner2.jpg" data-lightbox="post"><img src="scanner2.jpg" alt=""/></a>
 		</div>
-
-		<div class="gallery-thumb">
-		<a href="scanner3.jpg" data-lightbox="about"><img src="scanner3.jpg" alt=""/></a>
+		<div class="image-thumb">
+		<a href="scanner3.jpg" data-lightbox="post"><img src="scanner3.jpg" alt=""/></a>
 		</div>
 	</div>
 </div>

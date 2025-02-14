@@ -13,8 +13,8 @@ Sometime in the spring of 2022 I had the idea of organizing a small meeting at L
 
 
 <div class="image-thumb" >
-	<a href="https://cv-eeb.netlify.app/assets/images/group.jpg" data-lightbox="about">
-	<img style="width: 80%" src="https://cv-eeb.netlify.app/assets/images/group.jpg"></a>
+	<a href="https://cv-eeb.netlify.app/assets/images/group.jpg" data-lightbox="post" data-title="">
+	<img src="https://cv-eeb.netlify.app/assets/images/group.jpg"></a>
 </div>
 
 
@@ -25,7 +25,7 @@ Here I want to briefly summarize how we went about to organize the [Internationa
 The very first thing I did was to ask other people whether they wanted to help me with organizing this event. This may sound trivial, but having a good team is really essential, even if, in the end, you will probably be doing most of the work. Together, we shuffled ideas and talked broadly about the scope, but also about details (room availability, timing of the event [e.g., to not overlap with teaching], catering), which turned out to be quite important in the end. 
 
 <div class="image-thumb" >
-	<img src="a-team.jpg" >
+<img src="a-team.jpg" style="width: 60%" >
 </div>
 
 We were a team of two PIs and 4 postdocs, one intern, and - really important - office support staff who helped tremendously with booking flights, organizing accommodation, and many other things. Regardless of how good your idea for an event like this is: you *need* someone like that! In retrospect, it would have been really good to get students to help us, because it is also good for them to make this experience, but this is something I did not think about at the beginning.

@@ -11,34 +11,36 @@ tags:
 
 Interpreting phenotypic variation presented through scientific figures is often challenging because the traits of interest are hidden behind data points. Specifically, in scatterplots or biplots of Principal Component Analysis (PCA), which can be very high-dimensional, the visual impression often remains abstract. Using pictograms in addition to data points, or adding interactive elements, can be a powerful way to increase the communicative value of a figure (especially if your study organism is as charismatic as these Junonia butterflies below). Interactive figures that show organisms are becoming increasingly feasible with the use of computer vision (automated extraction of meaningful information from images) to extract not only the phenotypic information but the relevant regions of interest (ROIs) themselves. In this post, I will show how to implement both approaches in Python, using the matplotlib and bokeh library
 
-<div class="image-thumb" >
-	<a href="junonia_interactive_tsne.gif" data-lightbox="gallery1">
-	  <img style="width: 80%" src="junonia_interactive_tsne.gif" alt="junonia_interactive_tsne.gif">
+<div class="image-thumb">
+	<a data-src="junonia_interactive_tsne.gif" data-lightbox="post" data-title="Interactive t-SNE of Junonia">
+		<img>
 	</a>
 </div>
 
-<div class="image-thumb" >
-	<a href="junonia_pictograms_tsne.jpg" data-lightbox="gallery1">
-	  <img style="width: 80%" src="junonia_pictograms_tsne.jpg" alt="junonia_pictograms_tsne.jpg">
+<div class="image-thumb">
+	<a data-src="junonia_pictograms_tsne.jpg" data-lightbox="post" data-title="Pictogram-based t-SNE of Junonia">
+		<img >
 	</a>
 </div>
-## Pictogram-based figure 
 
-In this approach the goal is to plot the pictograms directly into the plot panel, which can be useful if you want to see all the variation in your dataset at once, so relationships of interest become visible, or if interactive figures are not an option (e.g., in publications). This is fairly straightforward using [matplotlib's offsetbox module](https://matplotlib.org/stable/api/offsetbox_api.html#matplotlib.offsetbox.OffsetImage). Below is an example that uses the ROis from a scan image to demonstrate how pigmentation increases with body size in isopods - see the result below, where the pictograms are plotted at their centroid on top of the data point:
+## Pictogram-based figure
 
- <div style="display: flex; justify-content: center;">
-	<div class="gallery-grid">
-		<div class="gallery-thumb">
-		<a href="scanned_image_resized.jpg" data-lightbox="gallery2" data-title="The raw data: a scanned batch of isopods">
-		<img src="scanned_image_resized.jpg"/></a>
-		</div>
-	
-		<div class="gallery-thumb">
-		<a href="figure_isopods_pictograms.jpg" data-lightbox="gallery2" data-title="The plot with a pictogram of each isopod plotted on top of the data points.">
-		<img src="figure_isopods_pictograms.jpg"/></a>
-		</div>
+In this approach the goal is to plot the pictograms directly into the plot panel, which can be useful if you want to see all the variation in your dataset at once, so relationships of interest become visible, or if interactive figures are not an option (e.g., in publications). This is fairly straightforward using [matplotlib's offsetbox module](https://matplotlib.org/stable/api/offsetbox_api.html#matplotlib.offsetbox.OffsetImage). Below is an example that uses the ROIs from a scan image to demonstrate how pigmentation increases with body size in isopods — see the result below, where the pictograms are plotted at their centroid on top of the data point:
+
+<div class="gallery-grid">
+	<div class="image-thumb">
+		<a data-src="scanned_image_resized.jpg" data-lightbox="post" data-title="The raw data: a scanned batch of isopods">
+			<img>
+		</a>
+	</div>
+
+	<div class="image-thumb">
+		<a data-src="figure_isopods_pictograms.jpg" data-lightbox="post" data-title="The plot with a pictogram of each isopod plotted on top of the data points.">
+			<img>
+		</a>
 	</div>
 </div>
+
 
 
 Reproduce the figure with the following gist and by [downloading the isopod dataset and scripts](https://osf.io/download/6u5ry/).

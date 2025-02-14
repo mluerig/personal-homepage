@@ -10,13 +10,9 @@ A reference card in images can serve multiple purposes: on the one hand, a refer
 
 Thanks [Erica Winslott](https://portal.research.lu.se/sv/persons/erica-winslott) for your help when making these :raised_hands:
 
-<div style="display: flex; justify-content: center;">
-	<div class="gallery-grid">
-		<div class="gallery-thumb">
-		<a href="img0.jpg" data-lightbox="about"><img src="img0.jpg"/></a>
-		</div>
-	</div>
-</div>
+<div class="image-thumb" >
+	<a data-src="img0.jpg" data-lightbox="post" data-title=""><img></a>
+</div> 
 
 ## 1. Materials
 
@@ -28,20 +24,15 @@ What you need:
 - a lamination machine and laminating pouches 
 - (optional) some tape
 
-
-<div style="display: flex; justify-content: center;">
-	<div class="gallery-grid">
-		<div class="gallery-thumb">
-		<a href="img1.jpg" data-lightbox="about"><img src="img1.jpg"/></a>
-		</div>
-
-		<div class="gallery-thumb">
-		<a href="img2.jpg" data-lightbox="about"><img src="img2.jpg"/></a>
-		</div>
-
-		<div class="gallery-thumb">
-		<a href="img3.jpg" data-lightbox="about"><img src="img3.jpg"/></a>
-		</div>
+<div class="gallery-grid">
+	<div class="image-thumb">
+	<a data-src="img1.jpg" data-lightbox="post" data-title=""><img></a>
+	</div>
+	<div class="image-thumb">
+	<a data-src="img2.jpg" data-lightbox="post" data-title=""><img></a>
+	</div>
+	<div class="image-thumb">
+	<a data-src="img3.jpg" data-lightbox="post" data-title=""><img></a>
 	</div>
 </div>
 
@@ -50,73 +41,57 @@ What you need:
 
 Cut out roughly 1 x 1 mm pieces from the color stripes. The exact size does not matter, but the relative size they will have in the picture later on. In other words, if in the final images the reference card is tiny because you place it next to a huge specimen, the squares should be larger so that enough pixels are featured in every color and gray scale. Note that I only use the color squares with full saturation.
 
- <div style="display: flex; justify-content: center;">
-	<div class="gallery-grid">
-		<div class="gallery-thumb">
-		<a href="img4.jpg" data-lightbox="about"><img src="img4.jpg"/></a>
-		</div>
-	
-		<div class="gallery-thumb">
-		<a href="img5.jpg" data-lightbox="about"><img src="img5.jpg"/></a>
-		</div>
-
-		<div class="gallery-thumb">
-		<a href="img6.jpg" data-lightbox="about"><img src="img6.jpg"/></a>
-		</div>
+<div class="gallery-grid">
+	<div class="image-thumb">
+	<a data-src="img4.jpg" data-lightbox="post" data-title=""><img></a>
+	</div>
+	<div class="image-thumb">
+	<a data-src="img5.jpg" data-lightbox="post" data-title=""><img></a>
+	</div>
+	<div class="image-thumb">
+	<a data-src="img6.jpg" data-lightbox="post" data-title=""><img></a>
 	</div>
 </div>
 
 ## 3. Align the squares
 
-Now place the squares in the opened laminating pouch. This is the tricky part: those pouches can be a bit stiff and may close again, so that the squares are launched all over the place. Patience and a calm hand is your friend here. Don't forget to add a small stripe of mm-paper. 
+Now place the squares in the opened laminating pouch. This is the tricky part: those pouches can be a bit stiff and may close again, so that the squares are launched all over the place. Patience and a calm hand is your friend here. Don't forget to add a small stripe of mm-paper.
 
- <div style="display: flex; justify-content: center;">
-	<div class="gallery-grid">
-		<div class="gallery-thumb">
-		<a href="img7.jpg" data-lightbox="about"><img src="img7.jpg"/></a>
-		</div>
-	
-		<div class="gallery-thumb">
-		<a href="img8.jpg" data-lightbox="about"><img src="img8.jpg"/></a>
-		</div>
+<div class="gallery-grid">
+	<div class="image-thumb">
+	<a data-src="img7.jpg" data-lightbox="post" data-title=""><img></a>
+	</div>
+	<div class="image-thumb">
+	<a data-src="img8.jpg" data-lightbox="post" data-title=""><img></a>
 	</div>
 </div>
 
 Alternatively, use tape to hold the little squares in place (this was Erica's idea :smile:):
 
- <div style="display: flex; justify-content: center;">
-	<div class="gallery-grid">
-		<div class="gallery-thumb">
-		<a href="img9.jpg" data-lightbox="about"><img src="img9.jpg"/></a>
-		</div>
-	
-		<div class="gallery-thumb">
-		<a href="img10.jpg" data-lightbox="about"><img src="img10.jpg"/></a>
-		</div>
-
-		<div class="gallery-thumb">
-		<a href="img11.jpg" data-lightbox="about"><img src="img11.jpg"/></a>
-		</div>
+<div class="gallery-grid">
+	<div class="image-thumb">
+	<a data-src="img9.jpg" data-lightbox="post" data-title=""><img></a>
+	</div>
+	<div class="image-thumb">
+	<a data-src="img10.jpg" data-lightbox="post" data-title=""><img></a>
+	</div>
+	<div class="image-thumb">
+	<a data-src="img11.jpg" data-lightbox="post" data-title=""><img></a>
 	</div>
 </div>
 
-## 4. Laminate 
+## 4. Laminate
 
 After putting everything together, the pouch is ready to go into the lamination machine. Enter it carefully, so that the squares inside don't move. Done! :sparkles:
 
- <div style="display: flex; justify-content: center;">
-	<div class="gallery-grid">
-		<div class="gallery-thumb">
-		<a href="img12.jpg" data-lightbox="about"><img src="img12.jpg"/></a>
-		</div>
-	
-		<div class="gallery-thumb">
-		<a href="img13.jpg" data-lightbox="about"><img src="img13.jpg"/></a>
-		</div>
-
-		<div class="gallery-thumb">
-		<a href="img14.jpg" data-lightbox="about"><img src="img14.jpg"/></a>
-		</div>
+<div class="gallery-grid">
+	<div class="image-thumb">
+	<a data-src="img12.jpg" data-lightbox="post" data-title=""><img></a>
+	</div>
+	<div class="image-thumb">
+	<a data-src="img13.jpg" data-lightbox="post" data-title=""><img></a>
+	</div>
+	<div class="image-thumb">
+	<a data-src="img14.jpg" data-lightbox="post" data-title=""><img></a>
 	</div>
 </div>
-
