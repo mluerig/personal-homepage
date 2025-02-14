@@ -131,6 +131,7 @@ body[data-theme="dark"] {
     border-color: $dark-light;
     .menu {
       a#mode {
+        padding-right: 15px; // Add padding to the right
         .mode-sunny {
           display: block;
         }

@@ -83,19 +83,13 @@ min-width: 10px;
 
 /* MAKE NAVBAR STICKY AND OPAQUE */
 .navbar {
-height: auto;
-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2));
-width: calc(#{$narrow-size} - (#{$spacing-full} * 2));
-background-color: rgb(19,20,24);
-z-index: 1;
-margin-right: auto;
-margin-left: auto;
-border-bottom: 1px solid $light;
-@extend %clearfix;
-padding-right: $spacing-full - 15px;
-padding-left: $spacing-full - 15px;
-padding-top: 15px;
-padding-bottom: 15px;
+  display: flex;
+  justify-content: flex-start; // Align items to the left
+  align-items: center;
+  width: 100%;
+  padding: 15px;
+  background-color: rgb(19,20,24);
+  border-bottom: 1px solid $light;
 }
 
 .navbar-center {
