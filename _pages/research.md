@@ -106,7 +106,7 @@ Color polymorphisms are an important source of intra-specific phenotypic diversi
 </details>
 
 <details open>
-<summary>The phenomicist's toolkit: developing of modern tools for phenotyping</summary>
+<summary>The phenomicist's toolkit: developing modern tools for phenotyping</summary>
 <div class="details-content">
 
 At large, one of the objectives of my research program is to strengthen to role of phenotypic information in ecological and evolutionary resarch. To enable phenomics-centered research I develop high-throughput phenotyping methods that leverage computer vision to extract rich, high-dimensional phenotypic data from images. These pipelines focus on unserfriendliness to enable efficient and reproducible trait quantification across diverse biological systems (phenopype), and provide access to state-of-the-art AI techniques, e.g., for deep metric learning (BioEncoder). By building and applying these tools, I aim to overcome bottlenecks in phenomic data collection and make large-scale phenotypic data acquisition accessible to users from the domain of biology, ecology and evolution, with little to no computational background.
@@ -218,7 +218,7 @@ At large, one of the objectives of my research program is to strengthen to role 
   <div class="image-thumb" >
 		<a data-src="/assets/images/figures/asellus05.jpg"
 		data-lightbox="isopods"
-		data-title="Development of pigmentation between high protein (top) and low protein (bottom) supplement during ontogeny.">
+		data-title="Differences in pigmentation between high (top) and low protein (bottom) supplement during ontogeny.">
 		<img>
 		</a>
 		<div class="caption"></div> 
