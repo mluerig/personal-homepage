@@ -4,24 +4,6 @@ permalink: /about/
 title: about me
 ---
 
-<div class="social-media">
-	<a href="/assets/files/moritz_luerig_cv.pdf" target="_blank">
-	<img src="/assets/images/social_media/cv.png">
-	</a>
-    <a href="https://twitter.com/mluerig" target="_blank">
-	<img src="/assets/images/social_media/twitter.png">
-	</a>
-    <a href="https://ecoevo.social/@mluerig" target="_blank">
-	<img src="/assets/images/social_media/mastodon.png">
-	</a>
-    <a href="https://www.strava.com/athletes/16016298" target="_blank">
-	<img src="/assets/images/social_media/strava.png">
-	</a>
-</div>
-
-<br>
-
-
 <div class="gallery-grid">
 
 	<div class="image-thumb">
