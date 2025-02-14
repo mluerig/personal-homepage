@@ -81,16 +81,32 @@ gap: 10px;
 min-width: 10px;
 }
 
-/* MAKE NAVBAR STICKY AND OPAQUE */
 .navbar {
   display: flex;
-  justify-content: flex-start; // Align items to the left
   align-items: center;
-  width: 100%;
-  padding: 15px;
+  max-width: $narrow-size;
+  margin: 0 auto;
+  padding: 15px 20px;
   background-color: rgb(19,20,24);
   border-bottom: 1px solid $light;
+  width: 100%;
+
+  a#mode {
+    margin-right: auto; // Aligns mode switch to the far left
+  }
+
+  .menu {
+    display: flex;
+    justify-content: center; // Centers the other menu items
+    flex: 1;
+  }
+
+  a {
+    font-size: 1.1em; // Slightly bigger font size for all items
+    margin: 0 10px;
+  }
 }
+
 
 .navbar-center {
 max-width: $narrow-size;

@@ -14,9 +14,14 @@ title: publications
     <a href="https://www.researchgate.net/profile/Moritz_Luerig" target="_blank">
 	<img src="/assets/images/social_media/research-gate.png">
 	</a>
-	<a href="{{ site.data.links.gh_assets_files }}/moritz_luerig_cv.pdf" target="_blank">
-	<img src="/assets/images/social_media/cv.png" >
-	</a>
+</div>
+
+<br>
+
+<div style="text-align: center;">
+  <a id="link" href="{{ site.data.links.gh_assets_files }}/moritz_luerig_cv.pdf">
+    &gt;&gt;&gt; Download a copy of my CV &lt;&lt;&lt;
+  </a>
 </div>
 
 
