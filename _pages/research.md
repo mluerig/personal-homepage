@@ -1,14 +1,15 @@
 ---
 layout: page
 permalink: /research/
-# title: research
+title: research program
 ---
 
 <div class="gallery-grid">
 
   <div class="image-thumb" style="max-width:30%">
     <a data-src="/assets/images/photos/ml-07.jpg"
-       data-lightbox="gallery">
+       data-lightbox="me"
+	   data-title="Fieldwork in Sweden">
       <img>
     </a>
     <div class="caption"></div> 
@@ -16,7 +17,8 @@ permalink: /research/
 
   <div class="image-thumb" style="max-width:30%">
     <a data-src="/assets/images/photos/ml-08.jpg"
-       data-lightbox="gallery">
+       data-lightbox="me"
+	   data-title="Working with specimens in silico">
       <img>
     </a>
     <div class="caption"></div>
@@ -41,7 +43,7 @@ Butterfly wings provide an ideal system to study the origins of phenotypic diver
   <div class="image-thumb" >
 		<a data-src="/assets/images/figures/butterflies01.jpg"
 		data-lightbox="isopods"
-		data-title="Natural history museum collections are a treasure trove for phenotypic data.">
+		data-title="Natural history museum collections are a rich source of organismal phenotypes.">
 		<img>
 		</a>
 		<div class="caption"></div> 
@@ -59,7 +61,7 @@ Butterfly wings provide an ideal system to study the origins of phenotypic diver
   <div class="image-thumb" >
 		<a data-src="/assets/images/figures/butterflies03.jpg"
 		data-lightbox="isopods"
-		data-title="Feature spaces are explored with tangible traits related to coloration and patterning.">
+		data-title="We can then map out the feature space with tangible traits.">
 		<img>
 		</a>
 		<div class="caption"></div> 
@@ -96,7 +98,7 @@ Color polymorphisms are an important source of intra-specific phenotypic diversi
   <div class="image-thumb" >
 		<a data-src="/assets/images/figures/odonates03.jpg"
 		data-lightbox="isopods"
-		data-title="By phenotypic and mating information we can detect female phenotypes that are preferred by males.">
+		data-title="By combining phenotypic and mating information we can detect singals of sexual selection.">
 		<img>
 		</a>
 		<div class="caption"></div> 
@@ -118,7 +120,7 @@ At large, my research program aims at a stronger integration of phenotypic infor
   <div class="image-thumb" >
 		<a data-src="/assets/images/figures/phenomics01.jpg"
 		data-lightbox="isopods"
-		data-title="phenopype: A phenotypic pipeline for Python">
+		data-title="phenopype: A phenotyping pipeline for Python">
 		<img>
 		</a>
 		<div class="caption"></div> 

@@ -102,7 +102,7 @@ min-width: 10px;
   }
 
   a {
-    font-size: 1.1em; // Slightly bigger font size for all items
+    font-size: 1.25em; // Slightly bigger font size for all items
     margin: 0 10px;
   }
 }
@@ -163,30 +163,41 @@ font-size: 1em;
 
 .gallery-grid {
   display: flex;
-  flex-wrap: wrap; 
+  flex-wrap: wrap;
   gap: 5px;
   justify-content: center;
   width: 90%;
-  margin: 0 auto; /* Centers the gallery within the parent */
+  margin: 0 auto;
 }
 
 .gallery-grid div {
-  flex: 1 1 calc(85% / 3); /* Ensures flexibility */
-}
-
-.image-thumb {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 5px; /* Optional for spacing */
+  flex: 1 1 calc(85% / 3); /* Default: 3 items per row */
+  min-width: 150px; /* Minimum size for images */
 }
 
 .image-thumb img {
   object-fit: contain;
+  object-fit: contain;
   border-radius: 6px;
   max-width: 100%;
+  height: auto;
   max-height: 100%;
 }
+
+/* For screens smaller than 768px (tablets), show 2 items per row */
+@media (max-width: 768px) {
+  .gallery-grid div {
+    flex: 1 1 calc(85% / 2);
+  }
+}
+
+/* For screens smaller than 480px (phones), show 1 item per row */
+@media (max-width: 480px) {
+  .gallery-grid div {
+    flex: 1 1 100%;
+  }
+}
+
 
 .caption {
   width: 80%;
