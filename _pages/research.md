@@ -58,7 +58,7 @@ Butterfly wings provide an ideal system to study the origins of phenotypic diver
   <div class="image-thumb" >
 		<a data-src="/assets/images/figures/butterflies02.jpg"
 		data-lightbox="isopods"
-		data-title="Foundational AI can convert phenotypic information to generic features.">
+		data-title="Foundational AI converts phenotypic information to generic features.">
 		<img>
 		</a>
 		<div class="caption"></div>
@@ -67,7 +67,7 @@ Butterfly wings provide an ideal system to study the origins of phenotypic diver
   <div class="image-thumb" >
 		<a data-src="/assets/images/figures/butterflies03.jpg"
 		data-lightbox="isopods"
-		data-title="We can then map out the feature space with tangible traits.">
+		data-title="Visual feature space is mapped out with tangible metrics.">
 		<img>
 		</a>
 		<div class="caption"></div> 
@@ -95,7 +95,7 @@ Color polymorphisms are an important source of intra-specific phenotypic diversi
   <div class="image-thumb" >
 		<a data-src="/assets/images/figures/odonates02.jpg"
 		data-lightbox="isopods"
-		data-title="With computer vision we can extract aspects of shape and coloration in high throughput.">
+		data-title="computer vision extracts aspects of shape and coloration in high throughput.">
 		<img>
 		</a>
 		<div class="caption"></div>
@@ -104,7 +104,7 @@ Color polymorphisms are an important source of intra-specific phenotypic diversi
   <div class="image-thumb" >
 		<a data-src="/assets/images/figures/odonates03.jpg"
 		data-lightbox="isopods"
-		data-title="By combining phenotypic and mating information we can detect singals of sexual selection.">
+		data-title="The combination of phenotypic and mating information can detect singals of sexual selection.">
 		<img>
 		</a>
 		<div class="caption"></div> 
