@@ -39,13 +39,16 @@ $dark-gray: #767f87;
 $wide-size: 1200px;
 $narrow-size: 880px;
 
+$page-width: 880px;
+
 // Padding unit
 $spacing-full: 30px;
 $spacing-half: calc($spacing-full / 2);
 
 // State of devices
-$on-mobile: 400;
-$on-tablet: 400;
+$on-mobile: 800;
+$on-tablet: 800;
+
 $on-desktop: 1024px;
 $on-widescreen: 1024px;
 
@@ -58,6 +61,7 @@ $on-widescreen: 1024px;
 @mixin relative-font-size($ratio) {
   font-size: $base-font-size * $ratio;
 }
+
 
 // Import sass files
 @import "klise/fonts", "klise/base", "klise/layout", "klise/post",

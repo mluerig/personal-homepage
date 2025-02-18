@@ -31,7 +31,17 @@ title: about me
 	</div>
 
 </div>
-
+<br>
+<br>
+<div style="text-align: center;">
+  <a
+    id="link"
+    href="{{ site.data.links.gh_assets_files }}/moritz_luerig_cv.pdf"
+    style="font-size: 1.4em; font-weight: bold;"
+  >
+    [Download a copy of my CV]
+  </a>
+</div>
 
 <br>
 

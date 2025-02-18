@@ -1,0 +1,85 @@
+.navbar-center {
+    max-width: $page-width;
+    margin: 0 auto;
+    padding: 0 $spacing-full;
+  }
+  
+  .menu {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    padding: 10px 20px; // more vertical (10px) and horizontal (20px) space
+    border-bottom: 0.25px solid #35363a;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+  
+    a#mode {
+      align-self: flex-start; // forces the mode icon to the top
+      order: 0;
+      flex: 0 0 auto;
+      margin-right: auto;     // remove if you want everything centered
+      padding: 10px 8px;       // match .menu-link padding
+      transform: scale(1);
+      opacity: 0.7;
+      z-index: 1;
+      &:hover {
+        cursor: pointer;
+        opacity: 1;
+      }
+      &:active {
+        transform: scale(0.9);
+      }
+      .mode-moon {
+        display: block;
+        line {
+          stroke: $black;
+          fill: none;
+        }
+        circle {
+          fill: $black;
+          stroke: $black;
+        }
+      }
+      .mode-sunny {
+        display: none;
+        line {
+          stroke: $dark-white;
+          fill: none;
+        }
+        circle {
+          fill: none;
+          stroke: $dark-white;
+        }
+      }
+    }
+  
+    .trigger {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      .trigger-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+    }
+  
+    .menu-link {
+      font-size: 1.2em;
+      color: $text-base-color;
+      padding: 5px 8px;
+      text-decoration: none;
+      opacity: 0.7;
+      &:hover {
+        opacity: 1;
+      }
+    }
+  
+    .menu-link.active {
+      font-weight: 600;
+      opacity: 1;
+    }
+  }
+  

@@ -19,8 +19,12 @@ title: publications
 <br>
 
 <div style="text-align: center;">
-  <a id="link" href="{{ site.data.links.gh_assets_files }}/moritz_luerig_cv.pdf">
-    &gt;&gt;&gt; Download a copy of my CV &lt;&lt;&lt;
+  <a
+    id="link"
+    href="{{ site.data.links.gh_assets_files }}/moritz_luerig_cv.pdf"
+    style="font-size: 1.4em; font-weight: bold;"
+  >
+    [Download a copy of my CV]
   </a>
 </div>
 
