@@ -18,3 +18,7 @@
   url: /about/
   external: false
   
+- title: CV
+  url: https://raw.githubusercontent.com/mluerig/website-assets-static/refs/heads/main/luerig.net/files/moritz_luerig_cv.pdf
+  external: true
+  

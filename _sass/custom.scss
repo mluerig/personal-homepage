@@ -119,8 +119,13 @@ font-size: 1em;
   min-width: 150px; /* Minimum size for images */
 }
 
+.image-thumb {
+  text-align: center; /* Ensures inline elements like <img> are centered */
+}
+
 .image-thumb img {
-  object-fit: contain;
+  display: block; /* Makes the image a block-level element */
+  margin: auto; /* Centers the image horizontally */
   object-fit: contain;
   border-radius: 6px;
   max-width: 100%;
