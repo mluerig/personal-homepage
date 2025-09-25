@@ -26,16 +26,9 @@ title: research program
 
 </div>
 
-
 # research goals
 
 My main research goal is to identify the mechanisms that give rise to phenotypic diversity at different levels of biological organization (i.e., within and among species). Specifically, I aim to develop a more quantitative understanding of **(i) phenotypic differentiation among major groups**, **(ii) the origin and persistence of color polymorphisms**, and **(iii) phenotype-environment relationships in natural populations**. To achieve these goals, I develop methodological frameworks for high-throughput phenotyping, primarily using automated image analysis (computer vision) and artificial intelligence (e.g., image encoders, vision-language models, large language models). I have applied these methods across a diverse array of biological systems (e.g., insects, crustaceans, plants, birds, etc.), integrating field surveys, controlled laboratory experiments, and natural history collections.
-
-
-
-
-
-
 
 # ongoing work
 
