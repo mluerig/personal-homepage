@@ -120,7 +120,8 @@ font-size: 1em;
 }
 
 .image-thumb img {
-  object-fit: contain;
+  display: block;
+  margin: 0 auto;
   object-fit: contain;
   border-radius: 6px;
   max-width: 100%;
