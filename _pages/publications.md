@@ -31,7 +31,13 @@ title: publications
 
 ## 2025
 
-Best, R.J. and <b>Lürig, M.D.</b>. The Ecological Importance of Crustacean Diversity. Book chapter in: Gutow, L., Poore, A. and Thiel, M. (Eds.), The Natural History of the Crustacea: The Ecological Role and Conservation of Crustaceans. Oxford University Press. <i>In press</i>.
+Best, R.J. and <b>Lürig, M.D.</b>. (2025) The Ecological Importance of Crustacean Diversity. Book chapter in: The Natural History of the Crustacea: The Ecological Role and Conservation of Crustaceans. Oxford University Press. 
+
+Ngoepe, N., Mwaiko S., Kishe M. A., Wienhues G., Temoltzin-Loranca Y., King L., Mustaphi C. C., Grosjean M., Tinner W., Matthews B., Vogel H., Heiri O., Jemmi E., <b>Lürig, M.D.</b>, Pedersen M. W., Seehausen O., and Muschick M.. 2025. Fossil evidence for trait diversification in an adaptive radiation. Scientific reports 15:38824. <img src="/assets/images/open_access_logo.png" style="height: 1.2em; padding: 3px; margin-top: -2px"> 
+<a id="link" href="https://doi.org/10.1038/s41598-025-23186-6" target="_blank"> [DOI]</a>
+
+<b>Lürig, M.D.</b>, Matthews B., Schubert C. J., and Kishida O.. (2025). Nutritional effects on the expression of cryptic pigmentation in freshwater isopods. Oikos e11664. Wiley. <img src="/assets/images/open_access_logo.png" style="height: 1.2em; padding: 3px; margin-top: -2px"> 
+<a id="link" href="https://doi.org/10.1038/s41598-025-23186-6" target="_blank"> [DOI]</a>
 
 ## 2024
 
